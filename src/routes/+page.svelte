@@ -8,10 +8,11 @@
 	import DrRaghavanS from '$images/people/DrRaghavanS.webp';
 	import DrPreethR from '$images/people/DrPreethR.webp';
 	import type { Member } from '$lib/types';
+	import SubHeading from '$ui/SubHeading.svelte';
 	const head: Member = {
 		src: DrMasilamaniV,
 		title: 'Dr. Masilamani V',
-		description: 'Head',
+		description: '',
 		href: '#'
 	};
 	const members = [
@@ -47,8 +48,9 @@
 </script>
 
 <Main>
-	<Heading alignment="center">ICPC Members</Heading>
+	<Heading alignment="center">Team for ICPC Regional Contest</Heading>
 	<section class="pt-5">
+		<SubHeading>Regional Contest Director</SubHeading>
 		<div class="flex justify-center">
 			<ImageCard member={head} variant="custom">
 				<p class="text-sm text-skin-muted">
@@ -58,7 +60,7 @@
 		</div>
 	</section>
 	<section class="mb-10 border-b border-base pb-10 pt-5">
-		<h1 class="mb-7 py-3 text-center text-3xl font-medium text-complementary">Associate Members</h1>
+		<SubHeading>Team Members</SubHeading>
 		<div class="flex flex-wrap justify-center gap-3">
 			{#each members as { email, ...member }}
 				<ImageCard {member} variant="custom">
