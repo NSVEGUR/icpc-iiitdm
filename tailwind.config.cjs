@@ -22,6 +22,7 @@ const config = {
 				skin: {
 					base: '#212427',
 					accent: '#2C4A87',
+					complementary: '#EC623D',
 					inverted: '#ffffff',
 					muted: '#7A7A7C',
 					'muted-secondary': '#B4B4B7'
