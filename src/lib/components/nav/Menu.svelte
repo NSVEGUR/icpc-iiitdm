@@ -9,7 +9,7 @@
 </script>
 
 <menu
-	class="flex h-10 w-full items-center justify-between bg-accent px-2 text-skin-inverted md:hidden"
+	class="sticky top-2 mx-auto flex h-12 w-[95%] items-center justify-between rounded-md bg-accent px-2 text-skin-inverted md:hidden"
 >
 	<h1 class="text-lg">Menu</h1>
 	<button
@@ -22,7 +22,7 @@
 	</button>
 </menu>
 <nav
-	class="sticky top-0 z-[998] bg-accent -md:fixed -md:h-screen -md:w-screen -md:transition-all -md:duration-300 {$isMenuOpened
+	class="sticky top-0 z-[998] w-[95%] bg-accent md:mx-auto md:rounded-b-lg md:border md:border-accent -md:fixed -md:h-screen -md:w-screen -md:transition-all -md:duration-300 {$isMenuOpened
 		? '-md:-translate-y-0'
 		: '-md:-translate-y-full'} -md:bg-dominant"
 >
@@ -43,7 +43,7 @@
 		</div>
 	</div>
 	<ul
-		class="flex h-12 flex-row items-center justify-center gap-3 -md:h-auto -md:flex-col -md:justify-start"
+		class="flex h-10 flex-row items-center justify-center gap-3 -md:h-auto -md:flex-col -md:justify-start"
 	>
 		{#each hyperlinks as { title, href }}
 			<li class="h-full -md:h-auto -md:w-full">
