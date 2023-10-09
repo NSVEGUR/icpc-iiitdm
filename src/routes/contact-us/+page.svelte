@@ -5,7 +5,7 @@
 
 <Main>
 	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
-		<h1 class="text-center text-lg">Contact Us</h1>
+		<h1 class="text-center text-2xl font-black">Contact Us</h1>
 	</div>
 	<div class="mb-20">
 		<Table

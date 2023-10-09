@@ -11,7 +11,7 @@
 
 <Main>
 	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
-		<h1 class="text-center text-2xl font-black">Contact Us</h1>
+		<h1 class="text-center text-2xl font-black">Important Dates</h1>
 	</div>
 	<section class="my-5 rounded px-3 py-5">
 		<ul class="space-y-2">
