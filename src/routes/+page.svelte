@@ -24,22 +24,22 @@
 				provides college students with an opportunity to demonstrate and sharpen their problem-solving
 				and computing skills. The contest is considered to be the “Olympics of Computer Programming”.
 				The ICPC Asia Regional Contests invite Asian students to meet, establish friendships and promote
-				fair competition in programming. The ICPC Asia West Regional Contest, Mathura- Kanpur Site invite
-				Asian students to meet, establish friendships and promote fair competition in programming. ICPC
-				Foundation is the Global Sponsor of this event whereas JetBrains is the ICPC Global Programming
-				Tools Sponsor.
+				fair competition in programming. The ICPC Asia West Regional Contest, Chennai Site invite Asian
+				students to meet, establish friendships and promote fair competition in programming. ICPC Foundation
+				is the Global Sponsor of this event whereas JetBrains is the ICPC Global Programming Tools Sponsor.
 			</p>
 			<SubHeading alignment="left">A Little About Us</SubHeading>
 			<p>
 				&emsp; &emsp; It is a two tier contest. The world is divided into six regions and Asia is a
-				region. In Asia there are many regional sites and Mathura-Kanpur is one of them. Each
-				regional site selects one team as winner of the site and will be eligible to participate in
-				the world finals. The Mathura-Kanpur Site contest is a multi-site contest and will be held
-				at GL University, Mathura and CSJM University, Kanpur. Because of limited number of seats in
-				the Mathura – Kanpur Site Regional Round, a preliminary online contest will be organized on
-				18 March 2023 to select teams for regional round. The Mathura- Kanpur Site regional round
-				will be held on 08 April – 09 April, 2023. This contest is jointly hosted by GLA University,
-				Mathura and CSJM University, Kanpur.
+				region. In Asia there are many regional sites and Chennai is one of them. Each regional site
+				selects one team as winner of the site and will be eligible to participate in the world
+				finals. The Chennai Site contest is a multi-site contest and will be held at Indian
+				Institute of Information Technology Design and Manufacturing, Kancheepuram. Because of
+				limited number of seats in the Chennai Site Regional Round, a preliminary online contest
+				will be organized on 4th November 2023 to select teams for regional round. The Chennai Site
+				regional round will be held on 16th and 17th December, 2023. The online contest is jointly
+				hosted by Chennai Region and Kanpur Region, whereas the onsite contest will happen
+				seperatly.
 			</p>
 			<SubHeading alignment="left">Setting Up Teams</SubHeading>
 			<p>
