@@ -1,74 +1,90 @@
-<script lang="ts">
+<script>
 	import Main from '$layouts/Main.svelte';
-	import Heading from '$ui/Heading.svelte';
-	import ImageCard from '$ui/ImageCard.svelte';
-	import DrMasilamaniV from '$images/people/DrMasilamaniV.webp';
-	import DrUmaraniJayaram from '$images/people/DrUmaraniJayaraman.webp';
-	import DrJagadeeshKakarla from '$images/people/DrJagadeeshKakarla.webp';
-	import DrRaghavanS from '$images/people/DrRaghavanS.webp';
-	import DrPreethR from '$images/people/DrPreethR.webp';
-	import type { Member } from '$lib/types';
-	import SubHeading from '$ui/SubHeading.svelte';
-	const head: Member = {
-		src: DrMasilamaniV,
-		title: 'Dr. Masilamani V',
-		description: '',
-		href: '#'
-	};
-	const members = [
-		{
-			src: DrUmaraniJayaram,
-			title: 'Dr. Umarani Jayaraman',
-			description: '',
-			href: '#',
-			email: 'umarani@iiitdm.ac.in'
-		},
-		{
-			src: DrJagadeeshKakarla,
-			title: 'Dr. Jagadeesh Kakarla',
-			description: '',
-			href: '#',
-			email: 'jagadeeshk@iiitdm.ac.in'
-		},
-		{
-			src: DrRaghavanS,
-			title: 'Dr. Raghavan S',
-			description: '',
-			href: '#',
-			email: 'raghavans@iiitdm.ac.in'
-		},
-		{
-			src: DrPreethR,
-			title: 'Dr. Preeth R',
-			description: '',
-			href: '#',
-			email: 'preeth@iiitdm.ac.in'
-		}
-	];
+	import Table from '$ui/Table.svelte';
 </script>
 
 <Main>
-	<Heading alignment="center">Team for ICPC Regional Contest</Heading>
-	<section class="pt-5">
-		<SubHeading>Regional Contest Director</SubHeading>
-		<div class="flex justify-center">
-			<ImageCard member={head} variant="custom">
-				<p class="text-sm text-skin-muted">
-					(Email: <span class="text-skin-accent">masila@iiitdm.ac.in</span>)
-				</p>
-			</ImageCard>
+	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
+		<h1 class="text-center text-2xl font-bold">People</h1>
+	</div>
+	<div class="mb-20">
+		<div class="my-5 overflow-x-auto border border-base text-sm">
+			<table class="w-full text-left">
+				<thead class="border-b border-base bg-muted uppercase">
+					<tr>
+						<th scope="col" class="px-6 py-3 font-semibold" />
+						<th scope="col" class="px-6 py-3 font-heading font-semibold text-skin-complementary"
+							>Team for ICPC Regional Contest - Chennai Site</th
+						>
+					</tr>
+				</thead>
+				<tbody>
+					<tr class="border-b border-base">
+						<th class=" px-6 py-4 font-medium"> Honorary Chair </th>
+						<td class="px-6 py-4 italic"
+							><span class="font-bold not-italic">Prof. William B. Poucher</span>, ICPC Global
+							Executive Director, Baylor University, USA</td
+						>
+					</tr>
+					<tr class="border-b border-base">
+						<th class=" px-6 py-4 font-medium">Honorary Co-Chair </th>
+						<td class="px-6 py-4 italic"
+							><span class="font-bold not-italic">Prof. C. J. Hwang</span>, Asia Regional Contest
+							Director, Texas State University, USA</td
+						>
+					</tr>
+					<tr class="border-b border-base">
+						<th class=" px-6 py-4 font-medium"> Patron </th>
+						<td class="px-6 py-4 italic"
+							><span class="font-bold not-italic"> Prof. Phalguni Gupta</span> Associate Director, ICPC
+							Asia West Continent and Vice-Chancellor, GLA University, Mathura</td
+						>
+					</tr>
+					<tr class="border-b border-base">
+						<th class=" px-6 py-4 font-medium"> Steering Committee </th>
+						<td class="space-y-2 px-6 py-4 italic">
+							<p>
+								<span class="font-bold not-italic"> Dr. Preeth R </span> IIITDM Kancheepuram, Chennai
+							</p>
+							<p>
+								<span class="font-bold not-italic"> Dr. Santhanam Raghavan </span> IIITDM Kancheepuram,
+								Chennai
+							</p>
+						</td>
+					</tr>
+					<tr class="border-b border-base">
+						<th class=" px-6 py-4 font-medium"> Regional Contest Director (RCD)</th>
+						<td class="px-6 py-4 italic">
+							<span class="font-bold not-italic"> Dr. Masilamani V </span> IIITDM Kancheepuram, Chennai
+						</td>
+					</tr>
+					<tr class="border-b border-base">
+						<th class=" px-6 py-4 font-medium"> Associate Regional Contest Director</th>
+						<td class="space-y-2 px-6 py-4 italic">
+							<p>
+								<span class="font-bold not-italic"> Dr. Umarani </span> IIITDM Kancheepuram, Chennai
+							</p>
+							<p>
+								<span class="font-bold not-italic"> Dr. Jagadeesh Kakarla </span> IIITDM Kancheepuram,
+								Chennai
+							</p>
+						</td>
+					</tr>
+					<tr class="border-b border-base">
+						<th class=" px-6 py-4 font-medium">
+							Member In-Charge, Operations (Preliminary Contest)</th
+						>
+						<td class="space-y-2 px-6 py-4 italic">
+							<p>
+								<span class="font-bold not-italic"> Mr. Kanagaram K </span> IIITDM Kancheepuram, Chennai
+							</p>
+							<p>
+								<span class="font-bold not-italic"> Mr. V Nagasai </span> IIITDM Kancheepuram, Chennai
+							</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
 		</div>
-	</section>
-	<section class="mb-10 border-b border-base pb-10 pt-5">
-		<SubHeading>Team Members</SubHeading>
-		<div class="flex flex-wrap justify-center gap-3">
-			{#each members as { email, ...member }}
-				<ImageCard {member} variant="custom">
-					<p class="text-sm text-skin-muted">
-						(Email: <span class="text-skin-accent">{email}</span>)
-					</p>
-				</ImageCard>
-			{/each}
-		</div>
-	</section>
+	</div>
 </Main>

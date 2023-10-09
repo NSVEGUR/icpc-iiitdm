@@ -22,7 +22,7 @@
 	</button>
 </menu>
 <nav
-	class="sticky top-0 z-[998] w-[95%] bg-accent md:mx-auto md:rounded-b-lg md:border md:border-accent -md:fixed -md:h-screen -md:w-screen -md:transition-all -md:duration-300 {$isMenuOpened
+	class="sticky top-2 z-[998] w-[95%] bg-accent md:mx-auto md:rounded-lg md:border-2 md:border-accent -md:fixed -md:h-screen -md:w-screen -md:transition-all -md:duration-300 {$isMenuOpened
 		? '-md:-translate-y-0'
 		: '-md:-translate-y-full'} -md:bg-dominant"
 >

@@ -57,6 +57,38 @@
 				>
 					Important Updates
 				</h1>
+				<ul class="mt-5 flex flex-col gap-1 p-2">
+					<!-- <li>
+						<h2 class="mb-1 font-bold text-skin-complementary">Onsite Round Problem Set</h2>
+						<p class="mb-2 text-green-600">
+							A team is allowed to bring at most 25 pages (one side printed, A4 sheet) during the
+							contest. The top, left, bottom and right margins should not be less than 2.54 cm. The
+							font should be Times Now Roman, Size 12. You are requested to bring the hard copy of
+							this preprinted material. Chennai Site will not provide any facility to print this
+							material and no request in this regard will be entertained.
+						</p>
+					</li> -->
+					<li class="py-1">
+						<a
+							href="http://iiitdm.ac.in/maps-and-directions/from-airport"
+							class="font-medium italic text-skin-accent"
+							target="_blank"
+							rel="noopener noreferrer">How to reach IIITDM Kancheepuram</a
+						>
+					</li>
+					<li class="py-1">
+						<a href="/schedule" class="font-medium italic text-red-800"
+							>Program Schedule - Chennai Region</a
+						>
+					</li>
+					<!-- <li>
+						<p class="mb-2 text-green-600">
+							Please note that ICPC Chennai Site will provide accommodation and food (of our choice)
+							to all the Selected Teams in their respective Center (Chennai) from the afternoon
+							(01:00 PM) of 16th December 2023 till the morning (09:00 AM) of 17th December 2023.
+						</p>
+					</li> -->
+				</ul>
 			</div>
 			<div class="min-h-[240px] border border-t-2 border-base border-t-accent bg-muted shadow-md">
 				<h1
@@ -64,6 +96,28 @@
 				>
 					Important Links
 				</h1>
+				<ul class="mt-5 flex flex-col gap-1 p-2">
+					<li class="py-1">
+						<a
+							href="https://icpc.global/"
+							class="font-medium italic text-skin-accent"
+							target="_blank"
+							rel="noopener noreferrer"
+							>ICPC Global Site:
+						</a>
+						All the teams interested to participate in Chennai Site, should register on ICPC Global
+					</li>
+					<li class="py-1">
+						<a
+							href="https://icpcasia.wp.txstate.edu/"
+							class="font-medium italic text-skin-accent"
+							target="_blank"
+							rel="noopener noreferrer"
+							>ICPC Asia Blog:
+						</a>
+						Prof. C. J. Hwang, Executive Director, ICPC, Aisa Region
+					</li>
+				</ul>
 			</div>
 		</aside>
 	</section>
