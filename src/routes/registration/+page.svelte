@@ -39,16 +39,18 @@
 			Institute.
 		</p>
 		<SubHeading>Step 2:</SubHeading>
-		<p class="text-center text-lg font-bold text-skin-accent">
-			Registration fee payment gateway is in the process of being set up. It will be made available
-			soon here.
-		</p>
-		<!-- <ul class="ml-5 list-disc">
+		<ul class="ml-5 list-disc">
 			<li>
-				The registration fee needs to be paid through Bank Gateway using the following link <a
-					href="/"
-					class="font-bold text-skin-accent underline">Here.</a
+				The registration fee needs to be paid through Bank Gateway using the following link: <a
+					href="https://www.onlinesbi.sbi/sbicollect/icollecthome.htm"
+					class="font-bold text-skin-accent underline">SBI eCollect</a
 				>
+				<h1 class="my-2 font-bold text-complementary">Guidelines:</h1>
+				<ul class="mb-3 ml-5 list-inside list-disc text-skin-muted">
+					<li>Select <span class="font-bold text-skin-base">IIITDM-KANCHEEPURAM A/C</span></li>
+					<li>Select <span class="font-bold text-skin-base">ICPC ASIA CHENNAI REGION</span></li>
+					<li>Fill the particulars and make payment.</li>
+				</ul>
 			</li>
 
 			<li>
@@ -62,7 +64,7 @@
 				before the last date of registration. Do not submit multiple copies of the registration form.
 				(One team one form)
 			</li>
-		</ul> -->
+		</ul>
 		<Heading>Registration Fee (For Preliminary Online Contest*):</Heading>
 		<div>
 			<p>For Teams from India: Rs. 1,000/-</p>
