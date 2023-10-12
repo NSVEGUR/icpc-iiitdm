@@ -43,13 +43,23 @@
 			<li>
 				The registration fee needs to be paid through Bank Gateway using the following link: <a
 					href="https://www.onlinesbi.sbi/sbicollect/icollecthome.htm"
+					target="_blank"
+					rel="noreferrer noopener"
 					class="font-bold text-skin-accent underline">SBI eCollect</a
 				>
 				<h1 class="my-2 font-bold text-complementary">Guidelines:</h1>
 				<ul class="mb-3 ml-5 list-inside list-disc text-skin-muted">
-					<li>Select <span class="font-bold text-skin-base">IIITDM-KANCHEEPURAM A/C</span></li>
-					<li>Select <span class="font-bold text-skin-base">ICPC ASIA CHENNAI REGION</span></li>
+					<li>Search <span class="font-bold text-skin-base">IIITDM-KANCHEEPURAM A/C</span></li>
+					<li>
+						Select Payment Category <span class="font-bold text-skin-base"
+							>ICPC ASIA CHENNAI REGION</span
+						>
+					</li>
 					<li>Fill the particulars and make payment.</li>
+					<li>
+						For Indian team: <strong class="text-skin-base">Rs 1000</strong> and For teams from
+						other countries: <strong class="text-skin-base">US$ 200</strong>
+					</li>
 				</ul>
 			</li>
 
