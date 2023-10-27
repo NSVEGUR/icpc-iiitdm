@@ -15,12 +15,30 @@
 	</div>
 	<section class="my-5 rounded px-3 py-5">
 		<ul class="space-y-2">
-			{#each Object.entries(list) as [key, value]}
-				<li class="relative rounded-lg border border-base bg-muted p-4 shadow-sm">
-					<span class="font-bold">{key}: </span>
-					<span>{value}</span>
-				</li>
-			{/each}
+			<li class="relative rounded-lg border border-base bg-muted p-4 shadow-sm">
+				<span class="font-bold">Registration Starts: </span>
+				<span>11th October</span>
+			</li>
+			<li class="relative rounded-lg border border-base bg-muted p-4 shadow-sm">
+				<span class="font-bold">Registration Ends: </span>
+				<span>30th October</span>
+			</li>
+			<li class="relative rounded-lg border border-base bg-muted p-4 shadow-sm">
+				<span class="font-bold">Last Date to Pay the Registration Fee: </span>
+				<span>30th October (5:00 PM IST)</span>
+			</li>
+			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
+				<span class="font-bold">Preliminary Online Contest: </span>
+				<p>
+					<span class="mr-2 line-through">4th November</span><span
+						>22nd November (Contest will be conducted jointly with other regional sites in India)</span
+					>
+				</p>
+			</li>
+			<li class="relative rounded-lg border border-base bg-muted p-4 shadow-sm">
+				<span class="font-bold">Chennai On-Site Contest: </span>
+				<span>16th and 17th December</span>
+			</li>
 		</ul>
 	</section>
 </Main>
