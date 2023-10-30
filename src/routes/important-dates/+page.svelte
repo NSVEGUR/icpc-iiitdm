@@ -1,12 +1,5 @@
 <script>
 	import Main from '$layouts/Main.svelte';
-	const list = {
-		'Registration Starts': '11th October',
-		'Registration Ends': '30th October',
-		'Last Date to Pay the Registration Fee': '30th October (5:00 PM IST)',
-		'Preliminary Online Contest': '4th November',
-		'Chennai On-Site Contest': '16th and 17th December'
-	};
 </script>
 
 <Main>
@@ -19,13 +12,19 @@
 				<span class="font-bold">Registration Starts: </span>
 				<span>11th October</span>
 			</li>
-			<li class="relative rounded-lg border border-base bg-muted p-4 shadow-sm">
+			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Registration Ends: </span>
-				<span>30th October</span>
+				<p>
+					<span class="mr-2 line-through">30th October</span>
+					<span>15th November</span>
+				</p>
 			</li>
-			<li class="relative rounded-lg border border-base bg-muted p-4 shadow-sm">
+			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Last Date to Pay the Registration Fee: </span>
-				<span>30th October (5:00 PM IST)</span>
+				<p>
+					<span class="mr-2 line-through">30th October (5:00 PM IST)</span>
+					<span>15th November (5:00 PM IST)</span>
+				</p>
 			</li>
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Preliminary Online Contest: </span>

@@ -2,13 +2,6 @@
 	import Main from '$layouts/Main.svelte';
 	import Heading from '$ui/Heading.svelte';
 	import SubHeading from '$ui/SubHeading.svelte';
-	const list = {
-		'Registration Starts': '11th October',
-		'Registration Ends': '30th October',
-		'Last Date to Pay the Registration Fee': '30th October (5:00 PM IST)',
-		'Preliminary Online Contest': '4th November',
-		'Chennai On-Site Contest': '16th and 17th December'
-	};
 </script>
 
 <Main>
