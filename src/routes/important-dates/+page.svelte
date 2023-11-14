@@ -16,21 +16,21 @@
 				<span class="font-bold">Registration Ends: </span>
 				<p>
 					<span class="mr-2 line-through">30th October</span>
-					<span>15th November</span>
+					<span>23rd November</span>
 				</p>
 			</li>
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Last Date to Pay the Registration Fee: </span>
 				<p>
 					<span class="mr-2 line-through">30th October (5:00 PM IST)</span>
-					<span>15th November (5:00 PM IST)</span>
+					<span>23rd November (5:00 PM IST)</span>
 				</p>
 			</li>
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Preliminary Online Contest: </span>
 				<p>
 					<span class="mr-2 line-through">4th November</span><span
-						>22nd November (Contest will be conducted jointly with other regional sites in India)</span
+						>26th November (Contest will be conducted jointly with other regional sites in India)</span
 					>
 				</p>
 			</li>
