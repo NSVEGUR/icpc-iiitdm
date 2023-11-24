@@ -10,6 +10,11 @@ export const load: LayoutServerLoad = async ({ url }) => {
 		},
 		{
 			type: 'link',
+			href: '/about-preliminary',
+			title: 'About Preliminary Contest'
+		},
+		{
+			type: 'link',
 			href: '/results',
 			title: 'Results'
 		},

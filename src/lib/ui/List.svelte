@@ -1,60 +1,60 @@
 <script lang="ts">
 	import type { Link } from '$lib/types';
-	export let list: {
-		[key: string]:
-			| Link[]
-			| {
-					[key: string]: Link[];
-			  };
-	};
+	export let items: (string | Link)[];
 </script>
 
-<ul class="my-5 flex flex-col items-center justify-center gap-5">
-	{#each Object.entries(list) as [title, links]}
-		<li class="h-full w-full overflow-hidden rounded border border-base bg-muted">
-			<div class="h-2 w-full bg-accent" />
-			<div class="p-10 -sm:p-3">
-				<h1
-					class="font-heading text-3xl font-medium {Array.isArray(links)
-						? 'text-complementary'
-						: 'text-accent'} border-b border-base -sm:text-2xl"
-				>
-					{title}
-				</h1>
-				{#if Array.isArray(links)}
-					<ul class="my-5 flex flex-col gap-2">
-						{#each links as { href, title }}
-							<li
-								class="relative rounded-lg border border-base bg-dominant p-4 shadow-sm hover:bg-muted-secondary hover:shadow-md"
-							>
-								<a {href} class="m-0 block h-full w-full" target="_blank" rel="noreferrer noopener"
-									>{title}</a
-								>
-							</li>
-						{/each}
-					</ul>
-				{:else}
-					{#each Object.entries(links) as [subtitle, subLinks]}
-						<h1
-							class="my-5 text-center font-heading text-3xl font-medium text-complementary -sm:text-2xl"
+<div class="my-5 overflow-hidden rounded-lg border border-base bg-muted">
+	<div class="h-1 w-full bg-accent" />
+	<ul class="flex flex-col items-start justify-center gap-2 p-5">
+		{#each items as item}
+			{#if typeof item == 'string'}
+				<li class="relative flex w-full">
+					<div class="absolute left-0 top-1/2 -translate-y-1/2 text-skin-complementary">
+						<svg
+							xmlns="http://www.w3.org/2000/svg"
+							fill="none"
+							viewBox="0 0 24 24"
+							stroke-width="1.5"
+							stroke="currentColor"
+							class="h-5 w-5"
 						>
-							{subtitle}
-						</h1>
-						<section class="my-5 rounded bg-muted px-3 py-5">
-							<ul class="space-y-2">
-								{#each subLinks as { href, title }}
-									<li class="text-lg" />
-									<li
-										class="relative rounded-lg border border-base bg-dominant p-4 shadow-sm hover:bg-muted-secondary hover:shadow-md"
-									>
-										<a {href} class="m-0 block h-full w-full" target="_blank">{title}</a>
-									</li>
-								{/each}
-							</ul>
-						</section>
-					{/each}
-				{/if}
-			</div>
-		</li>
-	{/each}
-</ul>
+							<path
+								stroke-linecap="round"
+								stroke-linejoin="round"
+								d="M12.75 15l3-3m0 0l-3-3m3 3h-7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+							/>
+						</svg>
+					</div>
+					<p class="ml-6 flex-1 rounded-lg border border-base bg-dominant p-4 shadow-sm">
+						{item}
+					</p>
+				</li>
+			{:else}
+				<li class="relative flex w-full">
+					<div class="absolute left-0 top-1/2 -translate-y-1/2 text-skin-complementary">
+						<svg
+							xmlns="http://www.w3.org/2000/svg"
+							fill="none"
+							viewBox="0 0 24 24"
+							stroke-width="1.5"
+							stroke="currentColor"
+							class="h-5 w-5"
+						>
+							<path
+								stroke-linecap="round"
+								stroke-linejoin="round"
+								d="M12.75 15l3-3m0 0l-3-3m3 3h-7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+							/>
+						</svg>
+					</div>
+					<a
+						href={item.href}
+						class="ml-6 block h-full w-full flex-1 rounded-lg border border-base bg-dominant p-4 shadow-sm hover:bg-muted-secondary hover:shadow-md"
+						target="_blank"
+						rel="noreferrer noopener">{item.title}</a
+					>
+				</li>
+			{/if}
+		{/each}
+	</ul>
+</div>

@@ -27,16 +27,28 @@
 				</p>
 			</li>
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
-				<span class="font-bold">Preliminary Online Contest: </span>
+				<span class="font-bold"
+					>ICPC India Preliminary Practice Session(i.e. Amritapuri, Chennai and Kanpur):
+				</span>
 				<p>
 					<span class="mr-2 line-through">4th November</span><span
-						>26th November (Contest will be conducted jointly with other regional sites in India)</span
+						>25th November (06:00 PM -08:00 PM IST)</span
 					>
+				</p>
+			</li>
+			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
+				<span class="font-bold"
+					>ICPC India Preliminary Online Contest(i.e. Amritapuri, Chennai and Kanpur):
+				</span>
+				<p>
+					<span class="mr-2 line-through">4th November</span><span>
+						26th November 2023 (11:00 AM -01:00PM IST)
+					</span>
 				</p>
 			</li>
 			<li class="relative rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Chennai On-Site Contest: </span>
-				<span>16th and 17th December</span>
+				<span>12th and 13th January, 2024 (Tentative)</span>
 			</li>
 		</ul>
 	</section>
