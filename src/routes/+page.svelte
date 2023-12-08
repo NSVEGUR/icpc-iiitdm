@@ -37,10 +37,11 @@
 				finals. The Chennai Site contest is a multi-site contest and will be held at Indian
 				Institute of Information Technology Design and Manufacturing, Kancheepuram. Because of
 				limited number of seats in the Chennai Site Regional Round, a preliminary online contest
-				will be organized on <span class="line-through">4th November 2023</span> 26th November 2023 to
-				select teams for regional round. The Chennai Site regional round will be held on 16th and 17th
-				December, 2023. The online contest is jointly hosted by Chennai Region and Kanpur Region, whereas
-				the onsite contest will happen seperatly.
+				will be organized on <span class="line-through">4th November 2023</span> 26th November 2023
+				to select teams for regional round. The Chennai Site regional round will be held on
+				<span class="line-through"> 16th and 17th December, 2023 </span> 11th and 12th January, 2024.
+				The online contest is jointly hosted by Chennai Region and Kanpur Region, whereas the onsite
+				contest will happen seperatly.
 			</p>
 			<SubHeading alignment="left">Setting Up Teams</SubHeading>
 			<p>

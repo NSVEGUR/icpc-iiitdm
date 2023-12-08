@@ -48,7 +48,7 @@
 			</li>
 			<li class="relative rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Chennai On-Site Contest: </span>
-				<span>12th and 13th January, 2024 (Tentative)</span>
+				<span>11th and 12th January, 2024</span>
 			</li>
 		</ul>
 	</section>
