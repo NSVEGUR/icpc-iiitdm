@@ -60,15 +60,21 @@
 					Important Updates
 				</h1>
 				<ul class="mt-5 flex flex-col gap-1 p-2">
+					<li>
+						<a
+							href="/results"
+							class="flex items-center font-medium italic text-skin-accent underline"
+							>Results of Online Contest
+							<img src={New} alt="gif" class="h-8" />
+						</a>
+					</li>
 					<li class="mb-5 flex flex-col gap-1 py-1">
-						<h1 class="mb-5 font-bold">Links for Online Contest:</h1>
 						<a
 							href="https://codedrills.io/contests/icpc-india-preliminary-2023-mock-round"
 							class="flex items-center font-medium italic text-skin-accent underline"
 							target="_blank"
 							rel="noopener noreferrer"
 							>Mock Round
-							<img src={New} alt="gif" class="h-8" />
 						</a>
 						<a
 							href="https://codedrills.io/contests/icpc-india-preliminary-2023"
@@ -76,7 +82,6 @@
 							target="_blank"
 							rel="noopener noreferrer"
 							>Preliminary Round
-							<img src={New} alt="gif" class="h-8" />
 						</a>
 					</li>
 					<!-- <li>
