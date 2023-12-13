@@ -13,8 +13,11 @@
 			<p class="text-lg">
 				This is the selected list of teams. The selection is based on the criteria already
 				announced. This is a provisional selection list. Two days window is kept to address any
-				appeal. The final list will be uploaded in the icpc Chennai site on 13th Dec, 2023. For any
-				appeal, mail to <a href="mailto:preeth@iiitdm.ac.in" class="text-skin-accent underline"
+				appeal. The final list will be uploaded in the icpc Chennai site on <span
+					class="line-through">13th Dec, 2023</span
+				>
+				15th Dec, 2023. For any appeal, mail to
+				<a href="mailto:preeth@iiitdm.ac.in" class="text-skin-accent underline"
 					>preeth@iiitdm.ac.in</a
 				> by 11th Dec, 2023 10pm.
 			</p>
