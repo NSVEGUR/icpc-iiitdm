@@ -9,7 +9,7 @@
 </script>
 
 <menu
-	class="sticky top-2 mx-auto flex h-12 w-[95%] items-center justify-between rounded-md bg-accent px-2 text-skin-inverted md:hidden"
+	class="sticky top-2 z-[100] mx-auto flex h-12 w-[95%] items-center justify-between rounded-md bg-accent px-2 text-skin-inverted md:hidden"
 >
 	<h1 class="text-lg">Menu</h1>
 	<button

@@ -209,7 +209,26 @@ export const results = [
 		940317
 	],
 	[117, 'CrystaLMatH', 'Indian Institute of Technology - Jodhpur', 2, 1996, 55986, 938773],
+	[118, '#define VAR winner', 'Indian Institute of Technology Goa', 2, 1999, 56718, 957326],
 	[121, 'SAP_01', 'National Institute of Technology, Trichy', 2, 2151, 57208, 946929],
+	[
+		124,
+		'choti_advance',
+		'Motilal Nehru National Institute of Technology - Allahabad',
+		2,
+		2187,
+		56123,
+		954815
+	],
+	[
+		126,
+		'The Immortal Codegons',
+		'Institute of Engineering &amp;amp;amp; Technology, Lucknow',
+		2,
+		2213,
+		57174,
+		957607
+	],
 	[130, 'Hexstacy', 'Sardar Vallabhbhai National Institute of Technology', 2, 2286, 55872, 943256],
 	[
 		131,
@@ -254,15 +273,6 @@ export const results = [
 	[163, 'Lemgends', 'Indian Institute of Information Technology Bhopal', 2, 2726, 56541, 936133],
 	[165, 'OO7', 'Maulana Azad National Institute of Technology Bhopal', 2, 2774, 56974, 941090],
 	[166, 'SegThree', 'Indian Institute of Information Technology, Surat', 2, 2832, 57278, 934980],
-	[
-		179,
-		'Friday',
-		'Motilal Nehru National Institute of Technology - Allahabad',
-		2,
-		3050,
-		57316,
-		935096
-	],
 	[186, 'Team_DmD', 'Thadomal Shahani Engineering College', 2, 3183, 56887, 942197],
 	[
 		190,
@@ -275,15 +285,6 @@ export const results = [
 	],
 	[194, 'DarkSkyUnit(DSU)', 'Birla Institute of Technology, Mesra', 2, 3321, 56493, 958416],
 	[196, 'Maniaxe', 'Delhi Skill and Entrepreneurship University Okhla-1', 2, 3365, 55777, 957872],
-	[
-		197,
-		'Albatross',
-		'Institute of Engineering &amp;amp;amp; Technology, Lucknow',
-		2,
-		3371,
-		56520,
-		940474
-	],
 	[204, 'alltimecoders', 'Jaypee Institute of Information Technology', 2, 3577, 56158, 954926],
 	[205, 'TriBlazers', 'IIT Bhubaneswar', 2, 3685, 57026, 947957],
 	[206, 'Void', 'Indian Institute of Information Technology Guwahati', 2, 3722, 56380, 960448],
@@ -297,6 +298,5 @@ export const results = [
 		4026,
 		56775,
 		930231
-	],
-	[222, 'hrgboks', 'Indian Institute of Information Technology Nagpur', 2, 4030, 57302, 957047]
+	]
 ];
