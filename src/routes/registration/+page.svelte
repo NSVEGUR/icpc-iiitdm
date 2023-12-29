@@ -12,8 +12,7 @@
 		<div>
 			The ICPC 2023 Onsite contest for Chennai region (Hosted by IIITDM Kancheepuram), is scheduled
 			to be held on January 11-12, 2024. The teams who are qualified for the second round (according
-			to the final rank list updated in the website), may do the necessary travel arrangements. The
-			registration and payment details will be updated shortly on the website.
+			to the final rank list updated in the website), may do the necessary travel arrangements.
 			<Heading>Details :</Heading>
 			<ul class="ml-5 list-disc">
 				<li>The registration fee will be <b>Rs. 4000/-</b>.</li>
@@ -22,32 +21,62 @@
 				</li>
 				<li>
 					Registration Payment Link for qualified teams:
-					<a href="/" class="text-accent underline">Pay Here</a>
+					<a
+						href="https://www.onlinesbi.sbi/sbicollect/icollecthome.htm"
+						target="_blank"
+						rel="noreferrer noopener"
+						class="font-bold text-accent underline">Pay Here</a
+					>
+				</li>
+				<h1 class="my-2 font-bold text-complementary">Guidelines:</h1>
+				<ul class="mb-3 ml-5 list-inside list-disc text-skin-muted">
+					<li>Search <span class="font-bold text-skin-base">IIITDM-KANCHEEPURAM A/C</span></li>
+					<li>
+						Select Payment Category <span class="font-bold text-skin-base"
+							>ICPC ASIA CHENNAI REGION</span
+						>
+					</li>
+					<li>Fill the particulars and make payment.</li>
+					<li>
+						For a team: <strong class="text-skin-base">Rs 4000/-</strong> have to be paid
+					</li>
+				</ul>
+
+				<li>
+					Fill all the information in the <a
+						class="font-bold text-skin-accent underline"
+						href="https://forms.gle/CEQEDRRsUMgAv1AR7"
+					>
+						onsite registration form
+					</a>
+					along with screenshot/photograph of registration fee transaction proof. It should be submitted
+					before the last date of registration. Do not submit multiple copies of the registration form.
+					(One team one form)
 				</li>
 				<li>
 					Qualified Team List For Chennai Regional : <a
 						href="/results"
-						class="text-accent underline"
+						class="font-bold text-accent underline"
 					>
 						Results</a
 					>
 				</li>
 				<li>
 					Hostel Accommodation will be provided to the registered team. Food will be provided to the
-					participants from 10th (night dinner) till 12th (afternoon Lunch).
+					participants from 11th (afternoon lunch) till 13th (morning breakfast).
 				</li>
 				<li>A Team consists of 3 participants and 1 coach.</li>
 				<li>For Further updates please check the website from time to time.</li>
 			</ul>
 			<SubHeading>Important</SubHeading>
 			<ul class="ml-5 list-disc">
-				<li>
+				<!-- <li>
 					<b>Fill Your Travel Details:</b>
 					<a
 						href="https://docs.google.com/forms/d/1x6D-3yIf188f50DFtOvJo2MkJM67A6y1oVeRm_K8W_k/edit"
 						class="text-accent underline">Chennai</a
 					>
-				</li>
+				</li> -->
 				<li>
 					<b>T-shirt Size Confirmation:</b> The t-shirt will be issued as per the size entered in the
 					ICPC system. The T-shirt cannot be replaced because of the team’s name & institution printed
@@ -65,7 +94,9 @@
 					<b>Cancellation Form:</b>
 					<a
 						href="https://docs.google.com/forms/d/1xS1XlrIE9NaXlEFtdgnpmCL433Sw_brxqN-n5gVuQ-A/edit"
-						class="text-accent underline">Click Here</a
+						class="font-bold text-accent underline"
+						target="_blank"
+						rel="noreferrer noopener">Click Here</a
 					>
 				</li>
 				<li>
@@ -77,8 +108,7 @@
 				</li>
 			</ul>
 			<Heading>Selection to the ICPC Asia Chennai Site Regional 2023</Heading>
-			<p>Total slots: 250</p>
-			<p>Chennai: 95; Kanpur: 70</p>
+			<p class="font-black">Number of Chennai onsite slots: 100</p>
 			<SubHeading>ICPC Selection Criteria 2023</SubHeading>
 			<ul class="ml-5 list-disc">
 				<li>Teams ranked 1 to 10 are selected first.</li>
