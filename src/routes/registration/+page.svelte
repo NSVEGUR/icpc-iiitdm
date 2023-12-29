@@ -16,13 +16,85 @@
 			registration and payment details will be updated shortly on the website.
 			<Heading>Details :</Heading>
 			<ul class="ml-5 list-disc">
-				<li>The registration fee will be Rs. 4000.</li>
+				<li>The registration fee will be <b>Rs. 4000/-</b>.</li>
+				<li>
+					Last date to the payment registration for newly allotted teams: January 5th, 2024, 9:00 pm
+				</li>
+				<li>
+					Registration Payment Link for qualified teams:
+					<a href="/" class="text-accent underline">Pay Here</a>
+				</li>
+				<li>
+					Qualified Team List For Chennai Regional : <a
+						href="/results"
+						class="text-accent underline"
+					>
+						Results</a
+					>
+				</li>
 				<li>
 					Hostel Accommodation will be provided to the registered team. Food will be provided to the
 					participants from 10th (night dinner) till 12th (afternoon Lunch).
 				</li>
 				<li>A Team consists of 3 participants and 1 coach.</li>
 				<li>For Further updates please check the website from time to time.</li>
+			</ul>
+			<SubHeading>Important</SubHeading>
+			<ul class="ml-5 list-disc">
+				<li>
+					<b>Fill Your Travel Details:</b>
+					<a
+						href="https://docs.google.com/forms/d/1x6D-3yIf188f50DFtOvJo2MkJM67A6y1oVeRm_K8W_k/edit"
+						class="text-accent underline">Chennai</a
+					>
+				</li>
+				<li>
+					<b>T-shirt Size Confirmation:</b> The t-shirt will be issued as per the size entered in the
+					ICPC system. The T-shirt cannot be replaced because of the team’s name & institution printed
+					on the backside. So please make sure you enter the correct size in the portal.
+				</li>
+			</ul>
+			<SubHeading>Cancellation</SubHeading>
+			<ul class="ml-5 list-disc">
+				<li>
+					<b>Cancellation Deadline:</b> The last date to cancel your registration is
+					<b>January 5, 2024</b>. After this date, no refunds will be issued for cancellations, but
+					Goodies will be sent to the registered address in the ICPC system.
+				</li>
+				<li>
+					<b>Cancellation Form:</b>
+					<a
+						href="https://docs.google.com/forms/d/1xS1XlrIE9NaXlEFtdgnpmCL433Sw_brxqN-n5gVuQ-A/edit"
+						class="text-accent underline">Click Here</a
+					>
+				</li>
+				<li>
+					<b
+						>Last date of changes in the team members / adding Reserve Member in the ICPC Global
+						Site :</b
+					>
+					December 31st (noon)
+				</li>
+			</ul>
+			<Heading>Selection to the ICPC Asia Chennai Site Regional 2023</Heading>
+			<p>Total slots: 250</p>
+			<p>Chennai: 95; Kanpur: 70</p>
+			<SubHeading>ICPC Selection Criteria 2023</SubHeading>
+			<ul class="ml-5 list-disc">
+				<li>Teams ranked 1 to 10 are selected first.</li>
+				<li>
+					Teams ranked from 11, who solved at least 3 problems are invited with not more than 3
+					teams overall from the same institute.
+				</li>
+				<li>
+					After that, the top team from each institute who solved at least one problem is invited
+					until available slots are filled. If the top team is already selected from an institute,
+					it is skipped.
+				</li>
+				<li>
+					The remaining slots, if any, are filled according to rank order with a cap of max 3
+					overall from the same institute.
+				</li>
 			</ul>
 		</div>
 	</section>
