@@ -2,6 +2,7 @@
 	import Main from '$layouts/Main.svelte';
 	import SubHeading from '$ui/SubHeading.svelte';
 	import New from '$images/new.gif';
+	import { Marquee } from 'flowbite-svelte';
 </script>
 
 <Main>
@@ -11,6 +12,13 @@
 			Technology Design and Manufacturing, Kancheepuram
 		</h1>
 	</div>
+	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Due to technical glitch in payment page, the payment link will be activated from 02-01-2024,
+			12:00 noon.
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
+	</Marquee>
 	<section class="mb-10 flex gap-5 -md:flex-col-reverse">
 		<article class="w-[75%] text-justify text-lg -md:w-full">
 			<p>
