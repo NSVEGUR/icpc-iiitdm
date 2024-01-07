@@ -1,12 +1,13 @@
 <script lang="ts">
 	import Main from '$layouts/Main.svelte';
+	import Heading from '$ui/Heading.svelte';
 	import Table from '$ui/Table.svelte';
-	import { results } from './data';
+	import { results, waiting_list } from './data';
 </script>
 
 <Main>
 	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
-		<h1 class="text-center text-2xl font-black">Final Results</h1>
+		<h1 class="text-center text-2xl font-black">Results</h1>
 	</div>
 	<section>
 		<!-- <article>
@@ -22,6 +23,15 @@
 				> by 11th Dec, 2023 10pm.
 			</p>
 		</article> -->
+		<Heading>Waiting List</Heading>
+		<p>Here is the waiting list of students for onsite round, please complete the registration</p>
+		<Table
+			headings={['Rank', 'Name', 'College', 'Score', 'Penalty', 'Codedrills ID', 'External ID']}
+			rows={waiting_list}
+			variant="striped"
+		/>
+		<Heading>Results</Heading>
+		<p>These are the results for online contest</p>
 		<Table
 			headings={['Rank', 'Name', 'College', 'Score', 'Penalty', 'Codedrills ID', 'External ID']}
 			rows={results}

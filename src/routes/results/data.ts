@@ -300,3 +300,104 @@ export const results = [
 		930231
 	]
 ];
+export const waiting_list = [
+	['Rank', 'Name', 'College', 'Score', 'Penalty', 'Codedrills ID', 'External ID'],
+	[
+		101,
+		'LAL Fund',
+		'Indian Institute of Information Technology - Allahabad',
+		2,
+		1742,
+		55709,
+		931849
+	],
+	[
+		43,
+		'dp_lagega_kya?',
+		'Indian Institute of Information Technology, Lucknow',
+		3,
+		10743,
+		56667,
+		954800
+	],
+	[134, '1 Code 3 Hangovers', 'Pimpri Chinchwad College of Engineering', 2, 2330, 55751, 935721],
+	[222, 'hrgboks', 'Indian Institute of Information Technology Nagpur', 2, 4030, 57302, 957047],
+	[223, 'the Boys', 'Maharaja Agrasen Institute of Technology', 2, 4065, 57163, 955504],
+	[226, 'Byte Me', 'Indian Institute of Information Technology, Dharwad', 2, 4119, 56165, 942961],
+	[229, 'Trinity', 'University School of Information Technology', 2, 4168, 56748, 961304],
+	[200, 'TripleS', 'National Institute of Technology, Durgapur', 2, 3419, 56156, 954987],
+	[178, 'Aayiye Timepass Kijiye', 'Netaji Sushas University of Technology', 2, 3047, 56384, 939924],
+	[
+		232,
+		'S-Squared-A',
+		'Jalpaiguri Government Engineering College- Maulana Abul Kalam Azad University of Technology',
+		2,
+		4229,
+		56780,
+		942860
+	],
+	[235, 'Non Greedy_NonGreedy', 'National Institute of Technology Patna', 2, 4265, 57049, 960050],
+	[
+		238,
+		'JUETProCoder',
+		'Jaypee University of Engineering and Technology, Guna',
+		2,
+		4303,
+		56713,
+		957147
+	],
+	[123, 'Midnight Algorithm Mavens', 'Indian Institute of Technology Goa', 2, 2174, 56938, 957325],
+	[
+		155,
+		'CodeCrackers',
+		'Institute of Engineering &amp;amp;amp; Technology, Lucknow',
+		2,
+		2596,
+		57145,
+		945700
+	],
+	[
+		242,
+		'Tatakae!',
+		'VNR Vignana Jyothi Institute of Engineering &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Technology',
+		2,
+		4477,
+		57323,
+		953761
+	],
+	[
+		189,
+		'Coders Hustle_Coders_Hustle',
+		'Indian Institute of Engineering Science and Technology, Shibpur',
+		2,
+		3234,
+		56866,
+		930830
+	],
+	[152, 'LoveDayKeCoders', 'JSS Academy of Technical Education Noida', 2, 2576, 56707, 959783],
+	[254, 'allnewbie_22sec', 'Dayananda Sagar College of Engineering', 2, 4739, 56542, 941122],
+	[
+		256,
+		'Tech Tycoon',
+		'Nutan Maharashtra Institute of Engineering and Technology, Pune',
+		2,
+		4896,
+		57022,
+		941323
+	],
+	[268, 'Team SUS', 'Ajay Kumar Garg Engineering College, Ghaziabad', 2, 5217, 56058, 953914],
+	[
+		213,
+		'Pinaka_kkr_cardinals',
+		'National Institute of Technology, Kurukshetra',
+		2,
+		3842,
+		56888,
+		944409
+	],
+	[239, 'Dil Se Soul', 'Kamla Nehru Institute of Technology', 2, 4318, 56719, 957391],
+	[272, 'SKS', 'Veermata Jijabai Technological Institute', 2, 5374, 57197, 959750],
+	[199, 'Segmentation Assault', 'Thadomal Shahani Engineering College', 2, 3398, 55724, 930365],
+	[273, 'fenvickThree', 'Pandit Deendayal Petroleum University', 2, 5430, 55757, 930860],
+	[249, 'Trifecta', 'Birla Institute of Technology, Mesra', 2, 4649, 56915, 954549]
+];

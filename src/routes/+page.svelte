@@ -69,10 +69,17 @@
 				<ul class="mt-5 flex flex-col gap-1 p-2">
 					<li>
 						<a
+							href="/results"
+							class="flex items-center font-medium italic text-skin-accent underline"
+							>Onsite round waiting list
+							<img src={New} alt="gif" class="h-8" />
+						</a>
+					</li>
+					<li>
+						<a
 							href="/registration"
 							class="flex items-center font-medium italic text-skin-accent underline"
 							>Onsite round registration and details
-							<img src={New} alt="gif" class="h-8" />
 						</a>
 					</li>
 					<li>
