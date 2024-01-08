@@ -67,6 +67,16 @@
 					Important Updates
 				</h1>
 				<ul class="mt-5 flex flex-col gap-1 p-2">
+					<li class="py-1">
+						<a
+							href="/schedule-final.pdf"
+							class="font-medium italic text-red-800"
+							target="_blank"
+							rel="noopener noreferrer"
+							>Final Schedule - Chennai Region Onsite Contest
+							<img src={New} alt="gif" class="h-8" />
+						</a>
+					</li>
 					<li>
 						<a
 							href="/results"
