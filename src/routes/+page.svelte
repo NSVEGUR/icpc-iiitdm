@@ -14,7 +14,7 @@
 	</div>
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			Payment link has been activated now, and will be active until 05-01-2024, 09:00 PM IST.
+			College/University ID Card is mandatory for the onsite round.
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 	</Marquee>
@@ -131,11 +131,6 @@
 							class="font-medium italic text-skin-accent"
 							target="_blank"
 							rel="noopener noreferrer">How to reach IIITDM Kancheepuram</a
-						>
-					</li>
-					<li class="py-1">
-						<a href="/schedule" class="font-medium italic text-red-800"
-							>Program Schedule - Chennai Region</a
 						>
 					</li>
 					<!-- <li>
