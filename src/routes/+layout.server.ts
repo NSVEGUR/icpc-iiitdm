@@ -10,8 +10,13 @@ export const load: LayoutServerLoad = async ({ url }) => {
 		},
 		{
 			type: 'link',
+			href: '/onsite-rules.pdf',
+			title: 'Onsite Contest Rules'
+		},
+		{
+			type: 'link',
 			href: '/about-preliminary',
-			title: 'About Preliminary Contest'
+			title: 'Preliminary Contest'
 		},
 		{
 			type: 'link',
