@@ -46,7 +46,7 @@
 				limited number of seats in the Chennai Site Regional Round, a preliminary online contest
 				will be organized on <span class="line-through">4th November 2023</span> 26th November 2023
 				to select teams for regional round. The Chennai Site regional round will be held on
-				<!--<span class="line-through"> 16th and 17th December, 2023 </span> -->14th - 15th January, 2024.
+				<!--<span class="line-through"> 16th and 17th December, 2023 </span> -->14th and 15th December, 2024.
 				The online contest is jointly hosted by Chennai Region and Kanpur Region, whereas the onsite
 				contest will happen seperatly.
 			</p>
