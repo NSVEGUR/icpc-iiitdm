@@ -41,10 +41,18 @@
 						>
 					</tr>
 					<tr class="border-b border-base">
+						<th class=" px-6 py-4 font-medium"> Regional Contest Director (RCD)</th>
+						<td class="px-6 py-4 italic">
+							<span class="font-bold not-italic"> Dr. Masilamani V </span> IIITDM Kancheepuram, Chennai
+						</td>
+					</tr>
+					<tr class="border-b border-base">
 						<th class=" px-6 py-4 font-medium"> Steering Committee </th>
 						<td class="space-y-2 px-6 py-4 italic">
+							
 							<p>
-								<span class="font-bold not-italic"> Dr. Preeth R </span> IIITDM Kancheepuram, Chennai
+								<span class="font-bold not-italic"> Dr. Jagadeesh Kakarla </span> IIITDM Kancheepuram,
+								Chennai
 							</p>
 							<p>
 								<span class="font-bold not-italic"> Dr. Santhanam Raghavan </span> IIITDM Kancheepuram,
@@ -52,12 +60,7 @@
 							</p>
 						</td>
 					</tr>
-					<tr class="border-b border-base">
-						<th class=" px-6 py-4 font-medium"> Regional Contest Director (RCD)</th>
-						<td class="px-6 py-4 italic">
-							<span class="font-bold not-italic"> Dr. Masilamani V </span> IIITDM Kancheepuram, Chennai
-						</td>
-					</tr>
+					
 					<tr class="border-b border-base">
 						<th class=" px-6 py-4 font-medium"> Associate Regional Contest Director</th>
 						<td class="space-y-2 px-6 py-4 italic">
@@ -65,9 +68,10 @@
 								<span class="font-bold not-italic"> Dr. Umarani </span> IIITDM Kancheepuram, Chennai
 							</p>
 							<p>
-								<span class="font-bold not-italic"> Dr. Jagadeesh Kakarla </span> IIITDM Kancheepuram,
-								Chennai
+								<span class="font-bold not-italic"> Dr. Preeth R </span> IIITDM Kancheepuram, Chennai
 							</p>
+							
+							
 						</td>
 					</tr>
 					<tr class="border-b border-base">
@@ -76,11 +80,21 @@
 						>
 						<td class="space-y-2 px-6 py-4 italic">
 							<p>
+								<span class="font-bold not-italic"> Mr. Saravana Kumar K </span> IIITDM Kancheepuram, Chennai
+							</p>
+							<p>
 								<span class="font-bold not-italic"> Mr. Kanagaram K </span> IIITDM Kancheepuram, Chennai
 							</p>
 							<p>
-								<span class="font-bold not-italic"> Mr. V Nagasai </span> IIITDM Kancheepuram, Chennai
+								<span class="font-bold not-italic"> Mr. Aravindan S </span> IIITDM Kancheepuram, Chennai
 							</p>
+							<p>
+								<span class="font-bold not-italic"> Mr. Aswin A</span> IIITDM Kancheepuram, Chennai
+							</p>
+							<!--
+							<p>
+								<span class="font-bold not-italic"> Mr. V Nagasai </span> IIITDM Kancheepuram, Chennai
+							</p>-->
 						</td>
 					</tr>
 				</tbody>

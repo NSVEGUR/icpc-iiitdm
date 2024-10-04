@@ -8,31 +8,31 @@ export const load: LayoutServerLoad = async ({ url }) => {
 			href: '/',
 			title: 'Home'
 		},
-		{
-			type: 'link',
-			href: '/onsite-rules.pdf',
-			title: 'Onsite Contest Rules'
-		},
+		//{
+		//	type: 'link',
+		//	href: '/onsite-rules.pdf',
+		//	title: 'Onsite Contest Rules'
+		//},//
 		{
 			type: 'link',
 			href: '/about-preliminary',
 			title: 'Preliminary Contest'
 		},
-		{
-			type: 'link',
-			href: '/results',
-			title: 'Results'
-		},
+		//{
+		//	type: 'link',
+		//	href: '/results',
+		//	title: 'Results'
+		//},
 		{
 			type: 'link',
 			href: '/important-dates',
 			title: 'Important Dates'
 		},
-		{
-			type: 'link',
-			href: '/registration',
-			title: 'Registration'
-		},
+		//{
+		//	type: 'link',
+		//	href: '/registration',
+		//	title: 'Registration'
+		//},
 		{
 			type: 'link',
 			href: '/people',

@@ -14,10 +14,16 @@
 	</div>
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			College/University ID Card is mandatory for the onsite round.
+			The registration for ICPC-2024 Chennai region online preliminary contest will start on 5th October 2024
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 	</Marquee>
+	<!--<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			College/University ID Card is mandatory for the onsite round.
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
+	</Marquee>-->
 	<section class="mb-10 flex gap-5 -md:flex-col-reverse">
 		<article class="w-[75%] text-justify text-lg -md:w-full">
 			<p>
@@ -38,13 +44,13 @@
 			</p>
 			<SubHeading alignment="left">A Little About Us</SubHeading>
 			<p>
-				&emsp; &emsp; It is a two tier contest. The world is divided into six regions and Asia is a
-				region. In Asia there are many regional sites and Chennai is one of them. Each regional site
+				&emsp; &emsp; It is a two tier contest. The world is divided into six regions and West-Asia is a
+				region. In West-Asia there are many regional sites and Chennai is one of them. Each regional site
 				selects one team as winner of the site and will be eligible to participate in the world
 				finals. The Chennai Site contest is a multi-site contest and will be held at Indian
 				Institute of Information Technology Design and Manufacturing, Kancheepuram. Because of
 				limited number of seats in the Chennai Site Regional Round, a preliminary online contest
-				will be organized on <span class="line-through">4th November 2023</span> 26th November 2023
+				will be organized on 11th November 2024
 				to select teams for regional round. The Chennai Site regional round will be held on
 				<!--<span class="line-through"> 16th and 17th December, 2023 </span> -->14th and 15th December, 2024.
 				The online contest is jointly hosted by Chennai Region and Kanpur Region, whereas the onsite
@@ -66,10 +72,22 @@
 				>
 					Important Updates
 				</h1>
+				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
-					<li class="py-1">
+					<!--<li class="py-1">
 						<a
 							href="/onsite-rules.pdf"
+							class="font-medium italic text-red-800"
+							target="_blank"
+							rel="noopener noreferrer"
+							>Rules and Regulations - Chennai Region Onsite Contest
+							<img src={New} alt="gif" class="h-8" />
+						</a>
+					</li>-->
+
+					<li class="py-1">
+						<a
+							href="/onsite-rules-updated.pdf"
 							class="font-medium italic text-red-800"
 							target="_blank"
 							rel="noopener noreferrer"
@@ -79,14 +97,15 @@
 					</li>
 					<li class="py-1">
 						<a
-							href="/schedule-final.pdf"
+							href="/ICPC-Important Instructions.pdf"
 							class="font-medium italic text-red-800"
 							target="_blank"
 							rel="noopener noreferrer"
-							>Final Schedule - Chennai Region Onsite Contest
+							>Important Instructions - Chennai Region Onsite Contest
 							<img src={New} alt="gif" class="h-8" />
 						</a>
 					</li>
+					<!--
 					<li>
 						<a
 							href="/results"
@@ -124,6 +143,7 @@
 							>Preliminary Round
 						</a>
 					</li>
+				-->
 					<!-- <li>
 						<h2 class="mb-1 font-bold text-skin-complementary">Onsite Round Problem Set</h2>
 						<p class="mb-2 text-green-600">
