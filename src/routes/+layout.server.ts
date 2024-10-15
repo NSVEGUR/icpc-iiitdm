@@ -28,11 +28,11 @@ export const load: LayoutServerLoad = async ({ url }) => {
 			href: '/important-dates',
 			title: 'Important Dates'
 		},
-		//{
-		//	type: 'link',
-		//	href: '/registration',
-		//	title: 'Registration'
-		//},
+		{
+			type: 'link',
+			href: '/registration',
+			title: 'Registration'
+		},
 		{
 			type: 'link',
 			href: '/people',
