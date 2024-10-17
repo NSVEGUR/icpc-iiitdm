@@ -10,17 +10,23 @@
 	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
 		<h1 class="text-center text-2xl font-black">Registration</h1>
 	</div>
+	<!--
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			Payment link has been activated now
 
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
-	</Marquee>
+	</Marquee>-->
 	<section class="mb-10 text-justify text-lg">
 		<div>
-			
-			<Heading>Steps for Online Payment: </Heading>
+			To participate in the ICPC Chennai Preliminary Online Contest, follow the steps given below <b>(All three Steps in the sequence are mandatory) </b>:-
+			<Heading>Step 1: Using the following Link, Create the Teams :- </Heading>
+			<ul class="ml-5 list-disc">
+				<li>	
+					<a href="https://icpc.global/regionals/finder/ChennaiICPC-2025" target="_blank" class="font-bold text-accent underline">https://icpc.global/regionals/finder/ChennaiICPC-2025 </a></li>
+				</ul>
+			<Heading>Step 2: Make the Online Payment using the following steps :- </Heading>
 			<ul class="ml-5 list-disc">
 				<li>Visit the link: 	
 					<a href="https://www.onlinesbi.sbi/sbicollect/" target="_blank" class="font-bold text-accent underline">https://www.onlinesbi.sbi/sbicollect/ </a></li>
@@ -37,10 +43,14 @@
 					Click Submit
 				</li>
 				
-				
-				
+					
 				
 			</ul>
+			<Heading>Step 3: Fill the details using the following Google Form :- </Heading>
+			<ul class="ml-5 list-disc">
+				<li>Visit the link: 	
+					<a href="https://forms.gle/2vz8RsmMSqtSCF6C6" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>
+			
 			
 		</div>
 	</section>

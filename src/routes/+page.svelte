@@ -12,18 +12,25 @@
 			Technology Design and Manufacturing, Kancheepuram
 		</h1>
 	</div>
-	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
+
+	<!--<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			The registration for ICPC-2024 Chennai region online preliminary contest will start on 5th October 2024
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
-	</Marquee>
-	<!--<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
+	</Marquee>-->
+	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			College/University ID Card is mandatory for the onsite round.
+			<a href="/fee">For Registration, Please Click Here</a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
-	</Marquee>-->
+	</Marquee>
+	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			The registration closes on 30th October 2024
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
+	</Marquee>-
 	<section class="mb-10 flex gap-5 -md:flex-col-reverse">
 		<article class="w-[75%] text-justify text-lg -md:w-full">
 			<p>
