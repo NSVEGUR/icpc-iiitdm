@@ -51,6 +51,6 @@
 				<li>Visit the link: 	
 					<a href="https://forms.gle/2vz8RsmMSqtSCF6C6" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
 		</div>
-		<Heading>The registration fee will be <b>Rs. 1100/-</b>.</Heading>
+		<Heading>The registration fee will be <b>Rs. 1100/-</b> per team.</Heading>
 	</section>
 </Main>
