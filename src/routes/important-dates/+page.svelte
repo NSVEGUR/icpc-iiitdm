@@ -16,18 +16,22 @@
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Registration Ends: </span>
 				<p>
+					
 					<!--<span class="mr-2 line-through">30th October</span>-->
 					<span><strike>	30th October 2024(5:00 PM IST) </strike>
-						 9th November 2024</span>
+					
+						 9th November 2024 	<img src={New} alt="gif" class="h-10" style="display: inline-flex;" /></span> 
 				</p>
 			</li>
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Last Date to Pay the Registration Fee: </span>
 				<p>
 				<strike>	30th October 2024(5:00 PM IST) </strike>
-				9th November 2024(11:59 PM IST)
+				
+				9th November 2024(11:59 PM IST) 
+				<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />
 
-				<!--<img src={New} alt="gif" class="absolute -top-10 left-10  h-8" />-->
+					<!--<img src={New} alt="gif" class="absolute -top-10 left-25  h-8" />-->
 					<!--<span>23rd November (5:00 PM IST)</span>-->
 				</p>
 			</li>
@@ -45,7 +49,8 @@
 				</span>
 				<p>
 					
-					16th November, 2024. From 6.00 PM to 8.30 PM
+					16th November, 2024. From 6:00 PM to 8:30 PM
+					<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />
 					
 				</p>
 			</li>
