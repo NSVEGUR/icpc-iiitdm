@@ -1,5 +1,6 @@
 <script>
 	import Main from '$layouts/Main.svelte';
+	import New from '$images/new.gif';
 </script>
 
 <Main>
@@ -25,6 +26,8 @@
 				<p>
 				<strike>	30th October 2024(5:00 PM IST) </strike>
 				9th November 2024(11:59 PM IST)
+
+				<!--<img src={New} alt="gif" class="absolute -top-10 left-10  h-8" />-->
 					<!--<span>23rd November (5:00 PM IST)</span>-->
 				</p>
 			</li>

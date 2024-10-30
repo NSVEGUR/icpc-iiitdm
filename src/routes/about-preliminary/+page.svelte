@@ -12,7 +12,7 @@
 	</div>
 	<p class="font-medium text-skin-complementary">
 		Selection Criteria for Chennai Site can be found <a
-			href="/preliminary-rules.pdf"
+			href="/preliminary-rules1.pdf"
 			target="_blank"
 			rel="noopener noreferrer"
 			class="font-bold underline">here</a
