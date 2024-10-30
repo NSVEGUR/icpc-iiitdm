@@ -16,13 +16,15 @@
 				<span class="font-bold">Registration Ends: </span>
 				<p>
 					<!--<span class="mr-2 line-through">30th October</span>-->
-					<span>30th October 2024</span>
+					<span><strike>	30th October 2024(5:00 PM IST) </strike>
+						 9th November 2024</span>
 				</p>
 			</li>
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Last Date to Pay the Registration Fee: </span>
 				<p>
-					30th October 2024(5:00 PM IST)
+				<strike>	30th October 2024(5:00 PM IST) </strike>
+				9th November 2024(11:59 PM IST)
 					<!--<span>23rd November (5:00 PM IST)</span>-->
 				</p>
 			</li>
@@ -40,7 +42,7 @@
 				</span>
 				<p>
 					
-					To be announced
+					16th November, 2024. From 6.00 PM to 8.30 PM
 					
 				</p>
 			</li>
