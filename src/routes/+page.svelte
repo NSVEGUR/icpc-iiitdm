@@ -20,11 +20,22 @@
 		</p>
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
-		<p class="relative mx-20 text-center font-bold text-red-700">
+		<p class="relative mx-20  font-bold text-red-700">
 			<a href="/fee">For Registration, Please Click Here</a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
+		<p class="relative mx-20 font-bold text-red-700">
+			The registration closes on 9th November 2024
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			
+			<a href="https://icpc-iiitdm.vercel.app/preliminary-rules1.pdf" target="_blank">Preliminary contest rules </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
+
 	</Marquee>
+	<!--
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			The registration closes on 9th November 2024
@@ -38,6 +49,7 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 	</Marquee>
+-->
 	<section class="mb-10 flex gap-5 -md:flex-col-reverse">
 		<article class="w-[75%] text-justify text-lg -md:w-full">
 			<p>
