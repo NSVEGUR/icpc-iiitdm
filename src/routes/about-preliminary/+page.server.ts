@@ -3,8 +3,8 @@ import type { PageServerLoad } from './$types';
 
 export const load: PageServerLoad = async () => {
 	const basic = [
-		'You will receive an email from CodeDrills with the contest link and login details. You can follow the instructions to login and verify your account is working.',
-		'If you do not login with the given credentials during the mock round, CodeDrills or the regional site will NOT be responsible for any login related issue during the contest.',
+		'You will receive an email from DOMjudge with the contest link and login details. You can follow the instructions to login and verify your account is working.',
+		'If you do not login with the given credentials during the mock round, DOMjudge or the regional site will NOT be responsible for any login related issue during the contest.',
 		'For the preliminary round, 3 logins (one each for a team member) will be given. Each team member can use their own device.'
 	];
 
@@ -13,7 +13,7 @@ export const load: PageServerLoad = async () => {
 		'Only those teams whose registration on the ICPC Global site is successful will be able to participate',
 		'Each team member can login from their individual account, submissions during the contest will count towards the team',
 		'Do not post suggestions or tips publicly during a live contest',
-		'Any issue related to Contest Platform (i.e. CodeDrill) cannot be challenged at any stage.',
+		'Any issue related to Contest Platform (i.e. DOMjudge) cannot be challenged at any stage.',
 		`Judge’s decision will be treated as final. No correspondence in this regard will be entertained`,
 		`Regional sites will not be responsible for any internet or device failure during the online contest at the contestant’s site`,
 		'Any type of plagiarism activities found during the contest may lead to disqualification of the team from all ICPC regionals. Posting source code online unintentionally will also be considered as cheating',

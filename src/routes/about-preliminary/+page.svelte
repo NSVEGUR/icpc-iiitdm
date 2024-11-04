@@ -20,7 +20,7 @@
 	</p>
 	<section class="my-5 text-lg">
 		<p>
-			The Chennai Site Preliminary Contest will held on CodeDrills Platform. There will be a single
+			The Chennai Site Preliminary Contest will held on DOMjudge Platform. There will be a single
 			preliminary contest for all the three regional sites of India (i.e. Amritapuri, Chennai and
 			Kanpur).
 		</p>
@@ -30,10 +30,11 @@
 		<h1 class="text-center text-3xl font-bold text-skin-accent">Rules</h1>
 		<List items={data.rules} />
 	</section>
+	<!--
 	<section class="my-5 text-lg">
 		<h1 class="text-center text-3xl font-bold text-skin-accent">
 			Reference links for more information on CodeDrills and ICPC:
 		</h1>
 		<List items={data.links} />
-	</section>
+	</section>-->
 </Main>
