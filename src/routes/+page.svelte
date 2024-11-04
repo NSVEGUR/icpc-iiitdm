@@ -113,6 +113,17 @@
 
 					<li class="py-1">
 						<a
+							href="https://icpc-iiitdm.vercel.app/preliminary-rules1.pdf"
+							class="font-medium italic text-red-800"
+							target="_blank"
+							rel="noopener noreferrer"
+							>Preliminary contest rules
+							<img src={New} alt="gif" class="h-8" />
+						</a>
+					</li>
+
+					<li class="py-1">
+						<a
 							href="/onsite-rules-updated.pdf"
 							class="font-medium italic text-red-800"
 							target="_blank"
