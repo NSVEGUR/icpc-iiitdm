@@ -43,21 +43,48 @@
 					<tr class="border-b border-base">
 						<th class=" px-6 py-4 font-medium"> Regional Contest Director (RCD)</th>
 						<td class="px-6 py-4 italic">
-							<span class="font-bold not-italic"> Dr. Masilamani V </span> IIITDM Kancheepuram, Chennai
+							<span class="font-bold not-italic"> Prof. Masilamani V </span> IIITDM Kancheepuram, Chennai
+						</td>
+					</tr>
+					<tr class="border-b border-base">
+						<th class=" px-6 py-4 font-medium"> Convener</th>
+						<td class="px-6 py-4 italic">
+							<span class="font-bold not-italic"> Prof. Sivaselvan B, HoD-CSE, </span> IIITDM Kancheepuram, Chennai
 						</td>
 					</tr>
 					<tr class="border-b border-base">
 						<th class=" px-6 py-4 font-medium"> Steering Committee </th>
 						<td class="space-y-2 px-6 py-4 italic">
+							<p>
+								<span class="font-bold not-italic"> Dr. Noor Mahammad SK</span> IIITDM Kancheepuram,
+								Chennai
+							</p>
+							<p>
+								<span class="font-bold not-italic"> Dr. Sadagopan N </span> IIITDM Kancheepuram,
+								Chennai
+							</p>
+							
 							
 							<p>
 								<span class="font-bold not-italic"> Dr. Jagadeesh Kakarla </span> IIITDM Kancheepuram,
 								Chennai
 							</p>
 							<p>
-								<span class="font-bold not-italic"> Dr. Santhanam Raghavan </span> IIITDM Kancheepuram,
+
+							<p>
+								<span class="font-bold not-italic"> Dr. Sanjeet Kumar Nayak </span> IIITDM Kancheepuram,
 								Chennai
 							</p>
+							<p>
+								<span class="font-bold not-italic"> Dr. S Raghavan </span> IIITDM Kancheepuram,
+								Chennai
+							</p>
+						
+						<p>
+							<span class="font-bold not-italic"> Dr. Jaishree Mayank </span> IIITDM Kancheepuram,
+							Chennai
+						</p>
+			
 						</td>
 					</tr>
 					
