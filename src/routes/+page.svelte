@@ -30,7 +30,7 @@
 		</p>
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			
-			<a href="https://icpc-iiitdm.vercel.app/preliminary-rules1.pdf" target="_blank">Preliminary contest rules </a>
+			<a href="/preliminary-rules2.pdf" target="_blank">Preliminary contest rules </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 
@@ -113,7 +113,7 @@
 
 					<li class="py-1">
 						<a
-							href="https://icpc-iiitdm.vercel.app/preliminary-rules1.pdf"
+							href="/preliminary-rules2.pdf"
 							class="font-medium italic text-red-800"
 							target="_blank"
 							rel="noopener noreferrer"
