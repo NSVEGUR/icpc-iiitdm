@@ -14,21 +14,21 @@
 				<span>5th October 2024</span>
 			</li>
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
-				<span class="font-bold">Registration Ends: </span>
+				<span class="font-bold">Registration Extended Till: </span>
 				<p>
 					
 					<!--<span class="mr-2 line-through">30th October</span>-->
-					<span><strike>	30th October 2024(5:00 PM IST) </strike>
+					<span> <!--<strike>	30th October 2024(5:00 PM IST) </strike>-->
 					
-						 9th November 2024 	<img src={New} alt="gif" class="h-10" style="display: inline-flex;" /></span> 
+						 11th November 2024 (11:59 PM IST)  	<img src={New} alt="gif" class="h-10" style="display: inline-flex;" /></span> 
 				</p>
 			</li>
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
-				<span class="font-bold">Last Date to Pay the Registration Fee: </span>
+				<span class="font-bold">Last Date to Pay the Registration Fee Extended to: </span>
 				<p>
-				<strike>	30th October 2024(5:00 PM IST) </strike>
+				<!--<strike>	30th October 2024(5:00 PM IST) </strike>-->
 				
-				9th November 2024(11:59 PM IST) 
+				 11th November 2024(11:59 PM IST) 
 				<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />
 
 					<!--<img src={New} alt="gif" class="absolute -top-10 left-25  h-8" />-->
@@ -40,7 +40,8 @@
 					>ICPC India Preliminary Practice Session(i.e. Amritapuri, Chennai and Kanpur):
 				</span>
 				<p>
-					To be announced
+					<span>9th November 2024 - 6:00 PM to 8:30 PM IST</span>
+					<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />
 				</p>
 			</li>
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
@@ -49,7 +50,7 @@
 				</span>
 				<p>
 					
-					16th November, 2024. From 6:00 PM to 8:30 PM
+					16th November, 2024 - 6:00 PM to 8:30 PM IST
 					<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />
 					
 				</p>
