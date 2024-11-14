@@ -18,11 +18,7 @@ export const load: LayoutServerLoad = async ({ url }) => {
 			href: '/about-preliminary',
 			title: 'Preliminary Contest'
 		},
-		//{
-		//	type: 'link',
-		//	href: '/results',
-		//	title: 'Results'
-		//},
+	
 		{
 			type: 'link',
 			href: '/important-dates',
@@ -37,6 +33,11 @@ export const load: LayoutServerLoad = async ({ url }) => {
 			type: 'link',
 			href: '/fee',
 			title: 'Registration'
+		},
+		{
+			type: 'link',
+			href: '/results',
+			title: 'Results'
 		},
 		{
 			type: 'link',
