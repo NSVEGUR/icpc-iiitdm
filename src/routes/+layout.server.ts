@@ -34,11 +34,11 @@ export const load: LayoutServerLoad = async ({ url }) => {
 			href: '/fee',
 			title: 'Registration'
 		},
-		{
-			type: 'link',
-			href: '/results',
-			title: 'Results'
-		},
+		//{
+		//	type: 'link',
+		//	href: '/results',
+		//	title: 'Results'
+		//},
 		{
 			type: 'link',
 			href: '/people',
