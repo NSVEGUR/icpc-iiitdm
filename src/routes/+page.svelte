@@ -26,13 +26,13 @@
 		</p>
 
 
-		<!--
+		
 		<p class="relative mx-20  font-bold text-red-700">
 			<a href="/Chennai_selected_list.xlsx">Participants eligible to appear in the Online Round of Chennai Region</a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 
-		-->	
+		
 		<!--
 		<p class="relative mx-20  font-bold text-red-700">
 			<a href="/fee">For Registration, Please Click Here</a>
