@@ -132,6 +132,26 @@
 							<img src={New} alt="gif" class="h-8" />
 						</a>
 					</li>-->
+					<li class="py-1">
+						<a
+							href="/preliminary-rules2.pdf"
+							class="font-medium italic text-red-800"
+							target="_blank"
+							rel="noopener noreferrer"
+							>CodeChef platform will be used in the Premliminary Round
+							<img src={New} alt="gif" class="h-8" />
+						</a>
+					</li>
+					<li class="py-1">
+						<a
+							href="/preliminary-rules2.pdf"
+							class="font-medium italic text-red-800"
+							target="_blank"
+							rel="noopener noreferrer"
+							>The ICPC India Preliminary Round re-contest is scheduled for Saturday, November 23,2024, from 9:0 PM to 11:30 PM 
+							<img src={New} alt="gif" class="h-8" />
+						</a>
+					</li>
 
 					<li class="py-1">
 						<a
