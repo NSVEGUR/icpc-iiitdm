@@ -21,10 +21,15 @@
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 		<p class="relative mx-20 font-bold text-red-700">
+			The ICPC India Preliminary Round re-contest is scheduled for Saturday, November 23,2024, from 9:0 PM to 11:30 PM
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
+<!--
+		<p class="relative mx-20 font-bold text-red-700">
 			We deeply regret the technical issues faced during today's (16th Nov, 2024) ICPC contest and sincerely apologize for the inconvenience caused. To ensure fairness and provide the competitive experience you deserve, we will be organizing a re-contest. The new date, time, and updated rules will be announced soon—thank you for your patience and understanding.
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
-
+	-->
 
 		
 		<p class="relative mx-20  font-bold text-red-700">
