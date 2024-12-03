@@ -76,6 +76,10 @@
 								Chennai
 							</p>
 							<p>
+								<span class="font-bold not-italic"> Dr. Pandiri Venkatesh </span> IIITDM Kancheepuram,
+								Chennai
+							</p>
+							<p>
 								<span class="font-bold not-italic"> Dr. S Raghavan </span> IIITDM Kancheepuram,
 								Chennai
 							</p>

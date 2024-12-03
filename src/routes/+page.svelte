@@ -148,6 +148,17 @@
 					</li>-->
 					<li class="py-1">
 						<a
+							href="/results"
+							class="font-medium italic text-red-800"
+							target="_blank"
+							rel="noopener noreferrer"
+							>List of  Selected Teams for Chennai Onsite Round
+							<img src={New} alt="gif" class="h-8" />
+						</a>
+					</li>
+					
+					<li class="py-1">
+						<a
 							href="/preliminary-rules2.pdf"
 							class="font-medium italic text-red-800"
 							target="_blank"
@@ -169,7 +180,7 @@
 
 					<li class="py-1">
 						<a
-							href="/preliminary-rules2.pdf"
+							href="/preliminary-rules4.pdf"
 							class="font-medium italic text-red-800"
 							target="_blank"
 							rel="noopener noreferrer"
