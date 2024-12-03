@@ -12,6 +12,16 @@
 	<section>
 		
 		<li class="py-1">
+
+			<a
+				href="/results"
+				class=" font-bold large-font italic text-red-800"
+				target="_blank"
+				rel="noopener noreferrer"
+				>To be annoonced soon
+				
+			</a>
+			<!--
 			<a
 				href="/Chennai_selected_list.xlsx"
 				class=" font-bold large-font italic text-red-800"
@@ -20,6 +30,7 @@
 				>Selected List
 				
 			</a>
-		</li>
+-->
+			</li>
     </section>
     </Main>
