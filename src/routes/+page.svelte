@@ -22,7 +22,7 @@
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 
 		<p class="relative mx-20 font-bold text-red-700">
-			<a href="/results">	Rank List </a>
+			<a href="/results"> Selection List </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 
