@@ -31,7 +31,7 @@
 				-->
 				<p
 				>
-				Please note that this list is prepared on the basis <a
+				Please note that this list is prepared on the basis of <a
 				href="/preliminary-rules4.pdf"
 				class="font-bold text-skin-accent underline"
 				target="_blank"
@@ -39,7 +39,7 @@
 				>team selection criteria
 				 
 			</a> for Chennai Site and 
-			Please note that this list is prepared on the basis <a
+			Please note that this list is prepared on the basis of <a
 				href="/New Ranking Process.pdf"
 				class="font-bold text-skin-accent underline"
 				target="_blank"
