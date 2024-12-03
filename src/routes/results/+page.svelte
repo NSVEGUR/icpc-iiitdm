@@ -13,7 +13,7 @@
 		
 		<li class="py-1">
 
-			<a
+			<!--<a
 				href="/results"
 				class=" font-bold large-font italic text-red-800"
 				target="_blank"
@@ -21,16 +21,17 @@
 				>To be annoonced soon
 				
 			</a>
-			<!--
+		-->
+			
 			<a
-				href="/Chennai_selected_list.xlsx"
+				href="/Rank_List-1.pdf"
 				class=" font-bold large-font italic text-red-800"
 				target="_blank"
 				rel="noopener noreferrer"
-				>Selected List
+				>Rank List
 				
 			</a>
--->
+
 			</li>
     </section>
     </Main>
