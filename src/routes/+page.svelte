@@ -19,9 +19,15 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 	</Marquee>-->
-	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
+	<Marquee speed={2} class="py-16" hoverSpeed={0.2} shadow>
 
 		<p class="relative mx-20 font-bold text-red-700">
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			
 			<a href="/results"> Selection List </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>

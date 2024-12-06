@@ -44,8 +44,8 @@
 				class="font-bold text-skin-accent underline"
 				target="_blank"
 				rel="noopener noreferrer"
-				>The Ranking Process</a>
-			 .To accommodate all teams from R1 and R2, we have increased the intake by 
+				>The Ranking Process.</a>
+			 To accommodate all teams from R1 and R2, we have increased the intake by 
 			 <span class="font-bold">21 additional slots </span>
 			  than originally published, bringing the total to
 			  <span class="font-bold">131 slots </span>
@@ -54,6 +54,7 @@
 			    and subject to the plagiarism check.
 			</p>
 
+			<li class="py-1">
 
 			<p 
 			class="font-medium text-skin-complementary">
@@ -64,7 +65,9 @@
 					class="font-bold underline">here</a
 				>
 			</p>
-
+			</li>
+			<li class="py-1">
+			
 			<p 
 			class="font-medium text-skin-complementary">
 			List of Gender-Neutral Selected Teams for Chennai Onsite Contest :<a
@@ -74,6 +77,7 @@
 					class="font-bold underline">here</a
 				>
 			</p>
+			</li>
 			<!--<p>
 				
 				<a
@@ -94,6 +98,6 @@
 			
 		-->
 
-			</li>
+			
     </section>
     </Main>
