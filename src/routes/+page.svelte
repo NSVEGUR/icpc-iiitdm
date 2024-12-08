@@ -19,7 +19,7 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 	</Marquee>-->
-	<Marquee speed={2} class="py-16" hoverSpeed={0.2} shadow>
+	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			Due to technical issues the registration link will be enabled only after 10th December 2024 only. Anyhow the selected participants can plan their travel according to the mail sent to the participants.
