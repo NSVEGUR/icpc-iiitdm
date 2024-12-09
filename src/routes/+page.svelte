@@ -20,11 +20,17 @@
 		</p>
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
-
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			<a href="/fee"> Registration Link for Onsite Contest </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
+<!--
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			Due to technical issues the registration link will be enabled only after 10th December 2024 only. Anyhow the selected participants can plan their travel according to the mail sent to the participants.
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
+
+		-->
 
 		<p class="relative mx-20 font-bold text-red-700">
 			
@@ -148,6 +154,16 @@
 				</h1>
 				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
+					<li class="py-1">
+						<a
+							href="/preliminary-rules2.pdf"
+							class="font-medium italic text-red-800"
+							target="_blank"
+							rel="noopener noreferrer"
+							>The ICPC India onsite contest is scheduled on 3rd and 4th January 2025 
+							<img src={New} alt="gif" class="h-8" />
+						</a>
+					</li>
 					<!--<li class="py-1">
 						<a
 							href="/onsite-rules.pdf"
@@ -179,6 +195,7 @@
 							<img src={New} alt="gif" class="h-8" />
 						</a>
 					</li>
+					<!--
 					<li class="py-1">
 						<a
 							href="/preliminary-rules2.pdf"
@@ -189,7 +206,7 @@
 							<img src={New} alt="gif" class="h-8" />
 						</a>
 					</li>
-
+-->
 					<li class="py-1">
 						<a
 							href="/preliminary-rules4.pdf"
