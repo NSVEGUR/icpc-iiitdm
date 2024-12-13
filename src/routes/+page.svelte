@@ -20,6 +20,11 @@
 		</p>
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
+
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Last Date to Register is 22<sup>nd</sup> December 2024 
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			<a href="/fee"> Registration Link for Onsite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
