@@ -20,7 +20,9 @@
 					<!--<span class="mr-2 line-through">30th October</span>-->
 					<span> <!--<strike>	30th October 2024(5:00 PM IST) </strike>-->
 					
-						 11th November 2024 (11:59 PM IST)  	<img src={New} alt="gif" class="h-10" style="display: inline-flex;" /></span> 
+						 11th November 2024 (11:59 PM IST)  	
+						 
+						 <!--<img src={New} alt="gif" class="h-10" style="display: inline-flex;" /></span> -->
 				</p>
 			</li>
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
@@ -29,7 +31,7 @@
 				<!--<strike>	30th October 2024(5:00 PM IST) </strike>-->
 				
 				 11th November 2024(11:59 PM IST) 
-				<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />
+				<!--<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />-->
 
 					<!--<img src={New} alt="gif" class="absolute -top-10 left-25  h-8" />-->
 					<!--<span>23rd November (5:00 PM IST)</span>-->
@@ -41,7 +43,7 @@
 				</span>
 				<p>
 					<span>9th November 2024 - 6:00 PM to 8:30 PM IST</span>
-					<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />
+					<!--<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />-->
 				</p>
 			</li>
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
@@ -51,7 +53,17 @@
 				<p>
 					
 					16th November, 2024 - 6:00 PM to 8:30 PM IST
-					<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />
+				<!--	<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />-->
+					
+				</p>
+			</li>
+			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
+				<span class="font-bold"
+					>Last Date to Register for Chennai Onsite Contest is 
+				</span>
+				<p>
+					
+					22nd December 2024					<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />
 					
 				</p>
 			</li>

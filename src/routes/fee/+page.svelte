@@ -10,6 +10,7 @@
 	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
 		<h1 class="text-center text-2xl font-black">Registration (Onsite Contest)</h1>
 	</div>
+
 	<!--
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 		<p class="relative mx-20 text-center font-bold text-red-700">
