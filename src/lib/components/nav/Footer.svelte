@@ -7,18 +7,22 @@
 	import jb from '$images/jb.webp';
 	import cclogo from '$images/cclogo.webp';
 	import geekslogo from '$images/geekslogo.webp';
+	import GG from '$images/geekslogo.webp';
+	import codechef from '$images/codechef.webp';
 	import type { Link as LinkType } from '$lib/types';
 	export let hyperlinks: LinkType[];
 </script>
 
 <footer class="w-full border-t border-base bg-muted py-5">
 	<div class="flex items-center justify-center gap-10">
+	<!--
 		<a href="/" class="">
 			<img src={ICPCLogo} alt="icpc logo" class=" h-20" />
 		</a>
 		<a href="/" class="">
 			<img src={TitledLogo} alt="institute logo" class="h-16" />
 		</a>
+		-->
 		<div class="flex items-center justify-center gap-10">
 			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
 				Sponsors
@@ -35,10 +39,10 @@
 			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
 				Outreach Partners
 				<a href="/" class="">
-					<img src={cclogo} alt="institute logo" class="h-16" />
+					<img src={cclogo} alt="institute logo" class="h-16" width="250" height="500"/>
 				</a>
 				<a href="/" class="">
-					<img src={geekslogo} alt="institute logo" class="h-16" />
+					<img src={GG} alt="institute logo" class="h-16" width="250" height="750" />
 				</a>
 				
 			</p>

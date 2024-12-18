@@ -47,7 +47,7 @@ export const load: LayoutServerLoad = async ({ url }) => {
 		{
 			type: 'link',
 			href: '/outreach-partners',
-			title: 'Outreach Partners'
+			title: 'Sponsors'
 		},
 		{
 			type: 'link',
