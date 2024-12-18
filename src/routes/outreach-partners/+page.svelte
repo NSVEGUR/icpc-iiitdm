@@ -7,6 +7,8 @@
 	import geekslogo from '$images/geekslogo.webp';
 	import Jetbrains from '$images/Jetbrains.webp';
 	import jb from '$images/jb.webp';
+	import pathway from '$images/pathway.webp';
+	import NST from '$images/NST.webp';
 
 </script>
 <Main>
@@ -17,6 +19,14 @@
 	<h1 class="text-center text-2xl font-black">
 		<img src={jb} alt="icpc logo" width="500" height="200" style="display:inline-block" />
 	</h1>
+	<h1 class="text-center text-2xl font-black">
+		<img src={pathway} alt="icpc logo" width="450" height="500" style="display:inline-block;"/>
+	</h1>
+	<h1 class="text-center text-2xl font-black">
+		<img src={NST} alt="icpc logo" width="450" height="500" style="display:inline-block;"/>
+	</h1>
+	
+	
 	
 </div>
 
