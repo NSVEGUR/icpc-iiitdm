@@ -3,6 +3,7 @@
 	import SubHeading from '$ui/SubHeading.svelte';
 	import New from '$images/new.gif';
 	import { Marquee } from 'flowbite-svelte';
+	import inauguration from '$images/inauguration.webp';
 </script>
 
 <Main>
@@ -20,7 +21,18 @@
 		</p>
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			<a href="inauguration.webp"> Inauguration Ceremony</a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			
+			<a href="/ICPC_Schedule.pdf" target="_blank">Event Schedule </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
 
+
+	<!--
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			Last Date to Register for Chennai Onsite Contest is 22<sup>nd</sup> December 2024 
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
@@ -29,6 +41,7 @@
 			<a href="/fee"> Registration Link for Onsite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
+		-->
 <!--
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			Due to technical issues the registration link will be enabled only after 10th December 2024 only. Anyhow the selected participants can plan their travel according to the mail sent to the participants.
