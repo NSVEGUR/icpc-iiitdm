@@ -172,6 +172,19 @@
 				</h1>
 				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
+
+					<li class="py-1">
+						<a
+							href="/Reference Notebook.pdf"
+							class="font-medium italic text-red-800"
+							target="_blank"
+							rel="noopener noreferrer"
+							>Reference Notebook 
+							<img src={New} alt="gif" class="h-8" />
+						</a>
+					</li>
+
+
 					<li class="py-1">
 						<a
 							href="/preliminary-rules2.pdf"
@@ -246,7 +259,7 @@
 							<img src={New} alt="gif" class="h-8" />
 						</a>
 					</li>
-					<li class="py-1">
+					<!--					<li class="py-1">
 						<a
 							href="/ICPC-Important Instructions.pdf"
 							class="font-medium italic text-red-800"
@@ -256,7 +269,7 @@
 							<img src={New} alt="gif" class="h-8" />
 						</a>
 					</li>
-					<!--
+					
 					<li>
 						<a
 							href="/results"
