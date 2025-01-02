@@ -3,7 +3,7 @@
 	import SubHeading from '$ui/SubHeading.svelte';
 	import New from '$images/new.gif';
 	import { Marquee } from 'flowbite-svelte';
-	import inauguration from '$images/inauguration.webp';
+	//import inauguration from '$images/inauguration.webp';
 </script>
 
 <Main>
