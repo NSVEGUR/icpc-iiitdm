@@ -21,16 +21,27 @@
 		</p>
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
+
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			<a href="/Chennai_selected_list.xlsx"> Chennai Regional Onsite Rank List</a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
+
+
+		<!--
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			<a href="inauguration.webp"> Inauguration Ceremony</a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
+
+-->
+		<!--
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			
 			<a href="/ICPC_Schedule.pdf" target="_blank">Event Schedule </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
-
+-->
 
 	<!--
 		<p class="relative mx-20 text-center font-bold text-red-700">
@@ -58,9 +69,11 @@
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		-->
+			<!--
 			<a href="/results"> Selection List </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
+		-->
 
 		<!--		<p class="relative mx-20 font-bold text-red-700">
 			The ICPC India Preliminary Round re-contest is scheduled for Saturday, November 23,2024, from 9:00 PM to 11:30 PM

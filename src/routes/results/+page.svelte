@@ -5,6 +5,26 @@
 
 </script>
 <Main>
+
+	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
+		<h1 class="text-center text-2xl font-black">Chennai Regional Onsite Rank List</h1>
+	</div>
+
+	<section>
+		
+		<li class="py-1">
+			<p 
+			class="font-medium text-skin-complementary">
+			Chennai Regional Onsite Rank List :<a
+					href="/Chennai_selected_list.xlsx"
+					target="_blank"
+					rel="noopener noreferrer"
+					class="font-bold underline">here</a
+				>
+			</p>
+		</li>
+	</section>
+
 	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
 		<h1 class="text-center text-2xl font-black">List of Selected Teams for Chennai Onsite Contest to be held on 3rd and 4th January 2025</h1>
 	</div>
@@ -12,6 +32,7 @@
 	<section>
 		
 		<li class="py-1">
+			
 
 			<!--<a
 				href="/results"
