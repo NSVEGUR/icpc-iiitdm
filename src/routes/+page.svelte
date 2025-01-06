@@ -27,7 +27,7 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 
-
+<!---->
 		<!--
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			<a href="inauguration.webp"> Inauguration Ceremony</a>
