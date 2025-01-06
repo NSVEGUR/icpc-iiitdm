@@ -23,7 +23,7 @@
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			<a href="/Chennai_selected_list.xlsx"> Chennai Regional Onsite Rank List</a>
+			<a href="\results"> Chennai Regional Onsite Rank List</a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 
