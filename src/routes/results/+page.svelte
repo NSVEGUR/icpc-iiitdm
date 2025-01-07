@@ -16,7 +16,7 @@
 			<p 
 			class="font-medium text-skin-complementary">
 			Chennai Regional Onsite Rank List :<a
-					href="/Chennai Ranklist 2024 Onsite.xlsx"
+					href="/Chennai Ranklist 2024 Onsite_UPDATED.xlsx"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="font-bold underline">here</a
