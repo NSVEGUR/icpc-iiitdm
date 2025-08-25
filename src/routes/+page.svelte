@@ -21,6 +21,11 @@
 		</p>
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Registration Of ICPC 2025 Coming Soon
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+		</p>
+
 <!--
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			<a href="/Regional Contest Director Report of ICPC 2024 Chennai Regional.pdf"> Regional Contest Director Report of ICPC 2024 Chennai Regional</a>
@@ -196,11 +201,11 @@
 				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
 			<li class="py-1 font-medium italic text-red-800">
-						Test
+						Registration Of ICPC 2025 Comming Soon
 							<img src={New} alt="gif" class="h-8" />
 						
 					</li>
-					<li class="py-1">
+					<!--<li class="py-1">
 						<a
 							href="/Reference Notebook.pdf"
 							class="font-medium italic text-red-800"
@@ -222,7 +227,7 @@
 							>The ICPC India onsite contest is scheduled on 3rd and 4th January 2025 
 							<img src={New} alt="gif" class="h-8" />
 						</a>
-					</li>
+					</li>-->
 					<!--<li class="py-1">
 						<a
 							href="/onsite-rules.pdf"
@@ -233,7 +238,7 @@
 							<img src={New} alt="gif" class="h-8" />
 						</a>
 					</li>-->
-					<li class="py-1">
+					<!--<li class="py-1">
 						<a
 							href="/results"
 							class="font-medium italic text-red-800"
@@ -253,7 +258,7 @@
 							>CodeChef platform will be used in the Premliminary Round
 							<img src={New} alt="gif" class="h-8" />
 						</a>
-					</li>
+					</li>-->
 					<!--
 					<li class="py-1">
 						<a
@@ -266,7 +271,7 @@
 						</a>
 					</li>
 -->
-					<li class="py-1">
+				<!--	<li class="py-1">
 						<a
 							href="/preliminary-rules4.pdf"
 							class="font-medium italic text-red-800"
@@ -286,7 +291,7 @@
 							>Rules and Regulations - Chennai Region Onsite Contest
 							<img src={New} alt="gif" class="h-8" />
 						</a>
-					</li>
+					</li>-->
 					<!--					<li class="py-1">
 						<a
 							href="/ICPC-Important Instructions.pdf"

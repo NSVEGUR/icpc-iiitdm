@@ -29,11 +29,11 @@ export const load: LayoutServerLoad = async ({ url }) => {
 		//	href: '/registration',
 		//	title: 'Registration'
 		//},
-		{
-			type: 'link',
-			href: '/fee',
-			title: 'Registration'
-		},
+		//{
+		//	type: 'link',
+		//	href: '/fee',
+		//	title: 'Registration'
+		//},
 		//{
 		//	type: 'link',
 		//	href: '/results',
@@ -44,16 +44,16 @@ export const load: LayoutServerLoad = async ({ url }) => {
 			href: '/people',
 			title: 'People'
 		},
-		{
-			type: 'link',
-			href: '/outreach-partners',
-			title: 'Sponsors'
-		},
-		{
-			type: 'link',
-			href: '/contact-us',
-			title: 'Contact Us'
-		}
+		//{
+		//	type: 'link',
+		//	href: '/outreach-partners',
+		//	title: 'Sponsors'
+		//},
+		//{
+		//	type: 'link',
+		//	href: '/contact-us',
+		//	title: 'Contact Us'
+		//}
 	];
 	return {
 		url: url.pathname,
