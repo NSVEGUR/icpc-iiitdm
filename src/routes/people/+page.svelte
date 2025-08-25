@@ -111,6 +111,10 @@
 						>
 						<td class="space-y-2 px-6 py-4 italic">
 							<p>
+								<span class="font-bold not-italic"> Mr. Aswin A</span> IIITDM Kancheepuram, Chennai
+							</p>
+							<!--
+							<p>
 								<span class="font-bold not-italic"> Mr. Saravana Kumar K </span> IIITDM Kancheepuram, Chennai
 							</p>
 							<p>
@@ -119,10 +123,8 @@
 							<p>
 								<span class="font-bold not-italic"> Mr. Aravindan S </span> IIITDM Kancheepuram, Chennai
 							</p>
-							<p>
-								<span class="font-bold not-italic"> Mr. Aswin A</span> IIITDM Kancheepuram, Chennai
-							</p>
-							<!--
+							
+							
 							<p>
 								<span class="font-bold not-italic"> Mr. V Nagasai </span> IIITDM Kancheepuram, Chennai
 							</p>-->
