@@ -195,14 +195,19 @@
 				</h1>
 				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
-
+			<li class="py-1 font-medium italic text-red-800">
+						Test
+							<img src={New} alt="gif" class="h-8" />
+						
+					</li>
 					<li class="py-1">
 						<a
 							href="/Reference Notebook.pdf"
 							class="font-medium italic text-red-800"
 							target="_blank"
 							rel="noopener noreferrer"
-							>Reference Notebook 
+							>
+							Reference Notebook 
 							<img src={New} alt="gif" class="h-8" />
 						</a>
 					</li>
