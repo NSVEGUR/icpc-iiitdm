@@ -49,11 +49,11 @@ export const load: LayoutServerLoad = async ({ url }) => {
 		//	href: '/outreach-partners',
 		//	title: 'Sponsors'
 		//},
-		//{
-		//	type: 'link',
-		//	href: '/contact-us',
-		//	title: 'Contact Us'
-		//}
+		{
+			type: 'link',
+			href: '/contact-us',
+			title: 'Contact Us'
+		}
 	];
 	return {
 		url: url.pathname,

@@ -22,7 +22,7 @@
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			Registration Of ICPC 2025 Coming Soon
+			Registration is Open <a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 
@@ -201,7 +201,7 @@
 				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
 			<li class="py-1 font-medium italic text-red-800">
-						Registration Of ICPC 2025 Comming Soon
+						Registration is open  <a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">Click Here </a>
 							<img src={New} alt="gif" class="h-8" />
 						
 					</li>
@@ -351,6 +351,21 @@
 							material and no request in this regard will be entertained.
 						</p>
 					</li> -->
+					<li class="py-1 font-medium italic text-red-800">
+						After Finishing The Registration In The ICPC Global Website , Fill The Form (Mandatory) <a href="https://forms.gle/xLfnxyP4ooj7DpUDA" target="_blank" class="font-bold text-accent underline">Click Here </a>
+							<img src={New} alt="gif" class="h-8" />
+						
+					</li>
+					<!--<li class="py-1">
+						<a
+							href="/preliminary-rules_2025_1.pdf"
+							class="font-medium italic text-red-800"
+							target="_blank"
+							rel="noopener noreferrer"
+							>Preliminary contest rules
+							<img src={New} alt="gif" class="h-8" />
+						</a>
+					</li>-->
 					<li class="py-1">
 						<a
 							href="http://iiitdm.ac.in/maps-and-directions/from-airport"

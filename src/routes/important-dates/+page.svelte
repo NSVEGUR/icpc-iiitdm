@@ -15,7 +15,7 @@
 			</li>-->
 			<li class="relative rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Registration Starts: </span>
-				<span>TBA</span>
+				<span> 4th September 2025  </span>
 			</li>
 			<!--<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold">Registration Extended Till: </span>
@@ -37,8 +37,8 @@
 					<span> <!--<strike>	30th October 2024(5:00 PM IST) </strike>-->
 					
 						 8th October 2025 (11:59 PM IST)  	
-						 
-						 <!--<img src={New} alt="gif" class="h-10" style="display: inline-flex;" /></span> -->
+					</span>	 
+						 <!--<img src={New} alt="gif" class="h-10" style="display: inline-flex;" /> -->
 				</p>
 			</li>
 			<!--<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">

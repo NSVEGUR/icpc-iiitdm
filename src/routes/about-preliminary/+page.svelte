@@ -10,14 +10,14 @@
 	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
 		<h1 class="text-center text-2xl font-black">About Preliminary Contest</h1>
 	</div>
-	<p class="font-medium text-skin-complementary">
+	<!--<p class="font-medium text-skin-complementary">
 		Selection Criteria for Chennai Site can be found <a
-			href="/preliminary-rules1.pdf"
+			href="/preliminary-rules_2025_1.pdf"
 			target="_blank"
 			rel="noopener noreferrer"
 			class="font-bold underline">here</a
 		>
-	</p>
+	</p>-->
 	<section class="my-5 text-lg">
 		<p>
 			The Chennai Site Preliminary Contest will held on DOMjudge Platform. There will be a single
