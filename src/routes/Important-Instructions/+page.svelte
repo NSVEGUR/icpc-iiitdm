@@ -29,7 +29,10 @@
 					<a href="https://icpc.global/regionals/finder/ChennaiICPC-2025" target="_blank" class="font-bold text-accent underline">https://icpc.global/regionals/finder/ChennaiICPC-2025 </a></li>
 				</ul>
 				-->
-                <Heading>Steps To Complete The Preliminary Registrations:</Heading>
+                
+		<h1 class="text-center text-2xl font-black">Steps To Complete The Preliminary Registrations:</h1>
+	
+                <!--<Heading>Steps To Complete The Preliminary Registrations:</Heading>-->
 			<Heading>Step 1: Please Use The Following Link To Create The Teams:- </Heading>
 			<ul class="ml-5 list-disc">
 				<li>Visit the link: 	
@@ -68,7 +71,7 @@
 				</li>
                 </ul>
 
-            <Heading>Step 3: After completing the payment, it is mandatory to fill out the Google Form and upload the proof of payment. </Heading>
+            <Heading>Step 3: After Completing The Payment, It Is Mandatory To Fill Out The Google Form And Upload The Proof Of Payment. </Heading>
 			<ul class="ml-5 list-disc">
 				<li>Visit the link: 	
 					<a href="https://forms.gle/xLfnxyP4ooj7DpUDA" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
