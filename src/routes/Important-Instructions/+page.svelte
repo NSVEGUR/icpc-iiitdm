@@ -30,7 +30,7 @@
 				</ul>
 				-->
                 
-		<SubHeading class="text-center text-2xl font-black">Steps To Complete The Preliminary Registrations:</SubHeading>
+		<h2 class="text-center text-2xl font-black">Steps To Complete The Preliminary Registrations:</h2>
 	
                 <!--<Heading>Steps To Complete The Preliminary Registrations:</Heading>-->
 			<Heading>Step 1: Please Use The Following Link To Create The Teams:- </Heading>
