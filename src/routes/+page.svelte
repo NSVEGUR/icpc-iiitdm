@@ -33,6 +33,12 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Important Instructions For Chennai ICPC Preliminiary Contest <a href="https://icpc-iiitdm.vercel.app/Important-Instruction" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+	
 
 	<!--
 		<p class="relative mx-20 text-center font-bold text-red-700">
