@@ -7,7 +7,7 @@
 </script>
 
 <Main>
-	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
+	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10"> 
 		<h1 class="text-center text-2xl font-black">IMPORTANT INSTRUCTIONS</h1>
 	</div>
 
@@ -36,7 +36,7 @@
 			<Heading>Step 1: Please Use The Following Link To Create The Teams:- </Heading>
 			<ul class="ml-5 list-disc">
 				<li>Visit the link: 	
-					<a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">https://www.onlinesbi.sbi/sbicollect/ </a></li>
+					<a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">https://icpc.global/regionals/finder/ChennaiICPC-2026 </a></li>
 				<!--<li>
 					Select <strong class="text-skin-base"> IIITDM-KANCHEEPURAM A/C </strong>
 				</li>
@@ -54,8 +54,8 @@
 
 			<Heading>Step 2: Make The Online Payment By Following the Steps Below:- </Heading>
 			<ul class="ml-5 list-disc">
-				<li>Visit the link: 	
-					<a href="https://www.onlinesbi.sbi/sbicollect/" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
+				<li>Visit here: 	
+					<a href="https://www.onlinesbi.sbi/sbicollect/" target="_blank" class="font-bold text-accent underline">Payment Link</a></li>	
 		
                     <li>
 					Select <strong class="text-skin-base"> IIITDM-KANCHEEPURAM A/C </strong>
