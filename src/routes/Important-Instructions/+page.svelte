@@ -30,7 +30,7 @@
 				</ul>
 				-->
                 
-		<h1 class="text-center text-2xl font-black">Steps To Complete The Preliminary Registrations:</h1>
+		<SubHeading class="text-center text-2xl font-black">Steps To Complete The Preliminary Registrations:</SubHeading>
 	
                 <!--<Heading>Steps To Complete The Preliminary Registrations:</Heading>-->
 			<Heading>Step 1: Please Use The Following Link To Create The Teams:- </Heading>
@@ -75,6 +75,7 @@
 			<ul class="ml-5 list-disc">
 				<li>Visit the link: 	
 					<a href="https://forms.gle/xLfnxyP4ooj7DpUDA" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
+                </ul>
                 </div>
 		<!--<Heading>The registration fee for onsite contest will be <b>Rs. 4400/-</b> per team.</Heading>-->
 	</section>
