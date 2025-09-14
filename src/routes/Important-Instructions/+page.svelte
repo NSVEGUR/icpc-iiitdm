@@ -34,19 +34,19 @@
 			<ul class="ml-5 list-disc">
 				<li>Visit the link: 	
 					<a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">https://www.onlinesbi.sbi/sbicollect/ </a></li>
-				//<li>
-				//	Select <strong class="text-skin-base"> IIITDM-KANCHEEPURAM A/C </strong>
-				//</li>
-				//<li>
-				//	Choose  <strong class="text-skin-base">ICPC Asia Chennai Region</strong>
-				//</li>
-				//<li>
-				//	Kindly fill all the fields correctly. The details entered cannot be changed at latter stage
-				//</li>
-				//<li>
-				//	Click Submit
-				//</li>
-					
+				<!--<li>
+					Select <strong class="text-skin-base"> IIITDM-KANCHEEPURAM A/C </strong>
+				</li>
+				<li>
+					Choose  <strong class="text-skin-base">ICPC Asia Chennai Region</strong>
+				</li>
+				<li>
+					Kindly fill all the fields correctly. The details entered cannot be changed at latter stage
+				</li>
+				<li>
+					Click Submit
+				</li>
+            -->	
 			</ul>
 
 			<Heading>Step 2: Make The Online Payment By Following the Steps Below:- </Heading>
@@ -73,6 +73,6 @@
 				<li>Visit the link: 	
 					<a href="https://forms.gle/xLfnxyP4ooj7DpUDA" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
                 </div>
-		//<Heading>The registration fee for onsite contest will be <b>Rs. 4400/-</b> per team.</Heading>
+		<!--<Heading>The registration fee for onsite contest will be <b>Rs. 4400/-</b> per team.</Heading>-->
 	</section>
 </Main>
