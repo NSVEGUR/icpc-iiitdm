@@ -59,7 +59,7 @@
 				<p>
 				<!--<strike>	30th October 2024(5:00 PM IST) </strike>-->
 				
-				 TBA
+				 8th October 2025 (11:59 PM IST)
 				<!--<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />-->
 
 					<!--<img src={New} alt="gif" class="absolute -top-10 left-25  h-8" />-->
