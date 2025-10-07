@@ -119,7 +119,7 @@
 			</li>-->
 			<li class="relative flex gap-2 rounded-lg border border-base bg-muted p-4 shadow-sm">
 				<span class="font-bold"
-					>Last Date to Register for Chennai Onsite Contest is 
+					>Last Date to Register for Chennai Onsite Contest is:
 				</span>
 				<p>
 					

@@ -84,10 +84,10 @@
 								Chennai
 							</p>
 						
-						<p>
+						<!-- <p>
 							<span class="font-bold not-italic"> Dr. Jaishree Mayank </span> IIITDM Kancheepuram,
 							Chennai
-						</p>
+						</p> -->
 			
 						</td>
 					</tr>
@@ -130,6 +130,28 @@
 							</p>-->
 						</td>
 					</tr>
+
+					<tr class="border-b border-base">
+						<th class=" px-6 py-4 font-medium">
+							On-Site Team Volnteers</th
+						>
+						<td class="space-y-2 px-6 py-4 italic">
+							<p>
+								<span class="font-bold not-italic"> Ms.Rajathi S</span> IIITDM Kancheepuram, Chennai
+							</p>
+							<p>
+								<span class="font-bold not-italic"> Mr.Siva Alagesh S</span> IIITDM Kancheepuram, Chennai
+							</p>
+							<p>
+								<span class="font-bold not-italic"> Ms.V Aileen Emelda </span> IIITDM Kancheepuram, Chennai
+							</p>
+							<p>
+								<span class="font-bold not-italic"> Ms.Dhivya R M </span> IIITDM Kancheepuram, Chennai
+							</p>
+
+							</td>
+
+							</tr>
 				</tbody>
 			</table>
 		</div>

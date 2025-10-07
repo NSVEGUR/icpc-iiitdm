@@ -17,7 +17,7 @@
 	</div>
 <div style="text-align center">	
 	<h1 class="text-center text-2xl font-black">
-		<img src={JS} alt="icpc logo" width="500" height="200" style="display:inline-block" />
+		<img src={JS} alt="icpc logo" width="450" height="200" style="display:inline-block" />
 	</h1>
 	<h1 class="text-center text-2xl font-black">
 		<img src={jb} alt="icpc logo" width="500" height="200" style="display:inline-block" />
