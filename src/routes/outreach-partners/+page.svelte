@@ -9,13 +9,16 @@
 	import jb from '$images/jb.webp';
 	import pathway from '$images/pathway.webp';
 	import NST from '$images/NST.webp';
-
+	import JS from '$images/JS.webp';
 </script>
 <Main>
 	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
 		<h1 class="text-center text-2xl font-black">Sponsors</h1>
 	</div>
 <div style="text-align center">	
+	<h1 class="text-center text-2xl font-black">
+		<img src={JS} alt="icpc logo" width="500" height="200" style="display:inline-block" />
+	</h1>
 	<h1 class="text-center text-2xl font-black">
 		<img src={jb} alt="icpc logo" width="500" height="200" style="display:inline-block" />
 	</h1>
