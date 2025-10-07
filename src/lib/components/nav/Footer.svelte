@@ -36,33 +36,41 @@
 				<a href="/" class="">
 					<img src={NST} alt="institute logo" class="h-16" />
 				</a>
+				<a href="/" class="">
+					<img src={JS} alt="institute logo" class="h-16" width="250" height="750" />
+				</a>
 			</p>
-			<div class="-mt-20 text-center">
+			<!--
+			<div class="-mt-8 text-center">
 				<p class="-2xs:text-xs text-sm font-medium font-extrabold">
 				 <strong> Outreach Partners</strong>
 				</p>
-				<a href="/" class="">
-				  <img src={JS} alt="institute logo" class="h-16 mx-auto" width="250" height="500"/>
-				</a>
-			  </div>
-			  
-			<!--
-			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
-				Outreach Partners
-				<a href="/" class="">
-					<img src={JS} alt="institute logo" class="h-16" width="250" height="500"/>
-				</a>
-			
-				
 				<a href="/" class="">
 					<img src={cclogo} alt="institute logo" class="h-16" width="250" height="500"/>
 				</a>
 				<a href="/" class="">
 					<img src={GG} alt="institute logo" class="h-16" width="250" height="750" />
 				</a>
+				<a href="/" class="">
+				  <img src={JS} alt="institute logo" class="h-16 mx-auto" width="250" height="500"/>
+				</a>
+			  </div>
+			  -->
+			  <div class="-mt-16 text-center">
+			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
+				<strong> Outreach Partners</strong>
 			
+				<a href="/" class="">
+					<img src={cclogo} alt="institute logo" class="h-16" width="250" height="500"/>
+				</a>
+				<a href="/" class="">
+					<img src={GG} alt="institute logo" class="h-16" width="250" height="750" />
+				</a>
+				<a href="/" class="">
+					<img src={JS} alt="institute logo" class="h-16" width="250" height="500"/>
+				</a>
 			</p>
-		-->
+			</div>
 		</div>
 	</div>
 	<div class="my-4 flex flex-wrap items-center justify-center gap-4">
