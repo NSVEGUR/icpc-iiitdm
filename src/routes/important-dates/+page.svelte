@@ -139,7 +139,7 @@
 				<span class="font-bold">Chennai On-Site Contest: </span>
 				
 				<!--<strike><span>14th and 15th December 2024</span></strike>-->
-				<span>TBA</span>
+				<span>29th and 30th December 2025</span>
 				<!--<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />-->
 			</li>
 		</ul>
