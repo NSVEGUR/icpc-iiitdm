@@ -9,6 +9,7 @@
 	import geekslogo from '$images/geekslogo.webp';
 	import GG from '$images/geekslogo.webp';
 	import codechef from '$images/codechef.webp';
+	import JS from '$images/JS.webp';
 	import type { Link as LinkType } from '$lib/types';
 	export let hyperlinks: LinkType[];
 </script>
@@ -25,7 +26,7 @@
 		-->
 		<div class="flex items-center justify-center gap-10">
 			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
-				Sponsors
+				<strong>Sponsors</strong>
 				<a href="/" class="">
 					<img src={jb} alt="institute logo" class="h-16" />
 				</a>
@@ -36,16 +37,32 @@
 					<img src={NST} alt="institute logo" class="h-16" />
 				</a>
 			</p>
+			<div class="-mt-20 text-center">
+				<p class="-2xs:text-xs text-sm font-medium font-extrabold">
+				 <strong> Outreach Partners</strong>
+				</p>
+				<a href="/" class="">
+				  <img src={JS} alt="institute logo" class="h-16 mx-auto" width="250" height="500"/>
+				</a>
+			  </div>
+			  
+			<!--
 			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
 				Outreach Partners
+				<a href="/" class="">
+					<img src={JS} alt="institute logo" class="h-16" width="250" height="500"/>
+				</a>
+			
+				
 				<a href="/" class="">
 					<img src={cclogo} alt="institute logo" class="h-16" width="250" height="500"/>
 				</a>
 				<a href="/" class="">
 					<img src={GG} alt="institute logo" class="h-16" width="250" height="750" />
 				</a>
-				
+			
 			</p>
+		-->
 		</div>
 	</div>
 	<div class="my-4 flex flex-wrap items-center justify-center gap-4">
