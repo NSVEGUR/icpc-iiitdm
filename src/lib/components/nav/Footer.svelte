@@ -66,9 +66,9 @@
 				<a href="/" class="">
 					<img src={GG} alt="institute logo" class="h-16" width="250" height="750" />
 				</a>
-				<a href="/" class="">
+				<!--<a href="/" class="">
 					<img src={JS} alt="institute logo" class="h-16" width="250" height="500"/>
-				</a>
+				</a>-->
 			</p>
 			</div>
 		</div>
