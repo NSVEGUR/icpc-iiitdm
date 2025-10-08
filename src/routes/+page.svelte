@@ -4,133 +4,211 @@
 	import New from '$images/new.gif';
 	import { Marquee } from 'flowbite-svelte';
 	//import inauguration from '$images/inauguration.webp';
+
+	import { onMount } from 'svelte';
+
+  let showModal = false;
+
+  onMount(() => {
+    // Show the modal automatically when page loads
+    showModal = true;
+  });
+
+  function closeModal() {
+    showModal = false;
+  }
+
+
+
 </script>
-<!--Anouncment-->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Announcement Modal Popup</title>
-   <style>
-    /* Overlay behind the modal */
-    #overlay {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      background-color: rgba(0, 0, 0, 0.5);
-      z-index: 1000;
-      display: none; /* Hidden by default */
-    }
 
-    /* The modal container */
-    #modal {
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background: white;
-      width: 600px; /* wider */
-      max-width: 95vw;
-      padding: 25px 30px;
-      box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
-      border-radius: 8px;
-      z-index: 1001;
-      display: none;
-      font-family: Arial, sans-serif;
-      color: #333;
-      line-height: 1.5;
-    }
+<style>
+  /* Overlay */
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+  }
 
-    /* Centered header */
-    #modal header {
-      position: relative;
-      margin-bottom: 15px;
-      text-align: center; /* center the title */
-    }
+  /* Modal */
+  .modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    width: 600px;
+    max-width: 95vw;
+    padding: 25px 30px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    z-index: 1001;
+    color: #333;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
+  }
 
-    #modal header h2 {
-      margin: 0;
-      font-weight: 700;
-      font-size: 1.3em;
-    }
+  .modal header {
+    text-align: center;
+    position: relative;
+    margin-bottom: 15px;
+  }
 
-    #modal header button.close-btn {
-      position: absolute;
-      top: 0;
-      right: 0;
-      background: none;
-      border: none;
-      font-size: 1.4em;
-      cursor: pointer;
-      font-weight: bold;
-      color: #555;
-      line-height: 1;
-    }
+  .modal header h2 {
+    font-size: 1.3em;
+    font-weight: 700;
+  }
 
-    /* Strong text styling */
-    #modal p strong {
-      font-weight: 700;
-    }
-  </style>
-</head>
-<body>
+  .modal header button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: none;
+    border: none;
+    font-size: 1.4em;
+    cursor: pointer;
+    color: #555;
+  }
 
-  <!-- The dark overlay -->
-  <div id="overlay"></div>
+  strong {
+    font-weight: 700;
+  }
+</style>
 
-  <!-- The modal popup -->
-  <div id="modal">
+{#if showModal}
+  <div class="overlay" on:click={closeModal}></div>
+
+  <div class="modal">
     <header>
       <h2>Announcement</h2>
-      <button class="close-btn" aria-label="Close">&times;</button>
+      <button on:click={closeModal} aria-label="Close">&times;</button>
     </header>
     <div>
       <p>
-        In response to several requests from participating teams regarding the overlap of the ICPC India Online Preliminary Round with the Simon Marais Mathematics Competition (SMMC), as well as requests from many teams citing festive engagements during the October month, the Organizing Committee has <strong> decided to reschedule the contest to last week of October or 1st week of November.</strong>
+        In response to several requests from participating teams regarding the overlap of the ICPC India Online Preliminary Round with the Simon Marais Mathematics Competition (SMMC), as well as requests from many teams citing festive engagements during the October month, the Organizing Committee has <strong>decided to reschedule the contest to last week of October or 1st week of November.</strong>
       </p>
       <p>
-        <strong>The new date for the online round will be communicated in a week's time.</strong> 
+        <strong>The new date for the online round will be communicated in a week's time.</strong>
       </p>
-	  <p>To accommodate this change, <strong>the last date for registration and fee submission is extended to 24th October 2025.</strong></p>
+      <p>
+        To accommodate this change, <strong>the last date for registration and fee submission is extended to 24th October 2025.</strong>
+      </p>
       <p>
         This decision has been taken to ensure maximum participation and to minimize inconvenience for contestants across institutions.
-       </p>
-	   <p> We sincerely thank you for your understanding and apologize for any inconvenience caused.
+      </p>
+      <p>
+        We sincerely thank you for your understanding and apologize for any inconvenience caused.
       </p>
     </div>
   </div>
+{/if}
+<!--
+Anouncment
+<script>
+  import { onMount } from 'svelte';
 
-  <script>
-    // Get elements
-    const modal = document.getElementById('modal');
-    const overlay = document.getElementById('overlay');
-    const closeBtn = modal.querySelector('.close-btn');
+  let showModal = false;
 
-    // Function to show modal
-    function showModal() {
-      modal.style.display = 'block';
-      overlay.style.display = 'block';
-    }
+  onMount(() => {
+    // Show the modal automatically when page loads
+    showModal = true;
+  });
 
-    // Function to hide modal
-    function hideModal() {
-      modal.style.display = 'none';
-      overlay.style.display = 'none';
-    }
+  function closeModal() {
+    showModal = false;
+  }
+</script>
 
-    // Show modal on page load
-    window.addEventListener('load', showModal);
+<style>
+  /* Overlay */
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+  }
 
-    // Close modal on clicking close button or overlay
-    closeBtn.addEventListener('click', hideModal);
-    overlay.addEventListener('click', hideModal);
-  </script>
-</body>
-</html>
-<!--Ending Anouncemnt-->
+  /* Modal */
+  .modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    width: 600px;
+    max-width: 95vw;
+    padding: 25px 30px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    z-index: 1001;
+    color: #333;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
+  }
+
+  .modal header {
+    text-align: center;
+    position: relative;
+    margin-bottom: 15px;
+  }
+
+  .modal header h2 {
+    font-size: 1.3em;
+    font-weight: 700;
+  }
+
+  .modal header button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: none;
+    border: none;
+    font-size: 1.4em;
+    cursor: pointer;
+    color: #555;
+  }
+
+  strong {
+    font-weight: 700;
+  }
+</style>
+
+{#if showModal}
+  <div class="overlay" on:click={closeModal}></div>
+
+  <div class="modal">
+    <header>
+      <h2>Announcement</h2>
+      <button on:click={closeModal} aria-label="Close">&times;</button>
+    </header>
+    <div>
+      <p>
+        In response to several requests from participating teams regarding the overlap of the ICPC India Online Preliminary Round with the Simon Marais Mathematics Competition (SMMC), as well as requests from many teams citing festive engagements during the October month, the Organizing Committee has <strong>decided to reschedule the contest to last week of October or 1st week of November.</strong>
+      </p>
+      <p>
+        <strong>The new date for the online round will be communicated in a week's time.</strong>
+      </p>
+      <p>
+        To accommodate this change, <strong>the last date for registration and fee submission is extended to 24th October 2025.</strong>
+      </p>
+      <p>
+        This decision has been taken to ensure maximum participation and to minimize inconvenience for contestants across institutions.
+      </p>
+      <p>
+        We sincerely thank you for your understanding and apologize for any inconvenience caused.
+      </p>
+    </div>
+  </div>
+{/if}
+
+Ending Anouncemnt-->
 <Main>
 	<div class="mb-5 w-full border-b-2 border-b-accent bg-muted py-10">
 		<h1 class="text-center">
@@ -240,9 +318,9 @@
 		</p>
 
 		-->
-
+<!--
 		<p class="relative mx-20 font-bold text-red-700">
-			
+		-->	
 			<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
