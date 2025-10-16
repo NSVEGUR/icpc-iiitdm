@@ -229,6 +229,28 @@ Ending Anouncemnt-->
 		</p>
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
+	<!--
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Declaration <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Upload The Signed Filled In Form In The Google sheet <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-5 h-8" />
+			
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Declaration <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Upload The Signed Filled In Form In The Google sheet <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>-->
+
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			Registration is Open <a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
@@ -290,7 +312,7 @@ Ending Anouncemnt-->
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 -->
-<!---->
+
 		<!--
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			<a href="inauguration.webp"> Inauguration Ceremony</a>
@@ -448,17 +470,22 @@ Ending Anouncemnt-->
 				</h1>
 				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
+					<li class="py-1 font-medium italic text-red-800">
+						Important Instructions For Chennai ICPC Preliminiary Contest  <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
+							<img src={New} alt="gif" class="h-8" />
+						
+					</li>
 					
 			<li class="py-1 font-medium italic text-red-800">
 						Registration is open  <a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">Click Here </a>
 							<img src={New} alt="gif" class="h-8" />
 						
 					</li>
-					<li class="py-1 font-medium italic text-red-800">
+					<!--<li class="py-1 font-medium italic text-red-800">
 						Announcement  <a href="/Icpc 2025/Announcement.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
 							<img src={New} alt="gif" class="h-8" />
 						
-					</li>
+					</li>-->
 					<!--<li class="py-1">
 						<a
 							href="/Reference Notebook.pdf"
