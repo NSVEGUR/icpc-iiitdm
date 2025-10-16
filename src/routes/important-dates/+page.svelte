@@ -36,7 +36,7 @@
 					<!--<span class="mr-2 line-through">30th October</span>-->
 					<span> <!--<strike>	30th October 2024(5:00 PM IST) </strike>-->
 					
-						<strike> 8th October 2025 (11:59 PM IST)  	</strike> 24th October 2025 (11:59 PM IST) 
+						<strike> 24th October 2025 (11:59 PM IST)  	</strike> 31st October 2025 (11:59 PM IST) 
 					</span>	 
 						 <!--<img src={New} alt="gif" class="h-10" style="display: inline-flex;" /> -->
 				</p>
@@ -59,7 +59,7 @@
 				<p>
 				<!--<strike>	30th October 2024(5:00 PM IST) </strike>-->
 				
-				<strike> 8th October 2025 (11:59 PM IST)</strike>  24th October 2025 (11:59 PM IST)
+				<strike> 24th October 2025 (11:59 PM IST)</strike>  31st October 2025 (11:59 PM IST)
 				<!--<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />-->
 
 					<!--<img src={New} alt="gif" class="absolute -top-10 left-25  h-8" />-->
@@ -102,7 +102,7 @@
 				</span>
 				<p>
 					
-					TBA
+					8th November 2025 (1:30PM to 4:30PM)
 				<!--	<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />-->
 					
 				</p>
