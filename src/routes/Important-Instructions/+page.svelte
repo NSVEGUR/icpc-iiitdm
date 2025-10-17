@@ -76,17 +76,17 @@
 				<li>Visit the link: 	
 					<a href="https://forms.gle/xLfnxyP4ooj7DpUDA" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
                 </ul>
-				<!--
+				
 				<Heading>Step 4: The Format Of Undertaking Is Provided In The Following Link </Heading>
 			<ul class="ml-5 list-disc">
-				<li>Visit the link: 	
-					<a href="https://forms.gle/xLfnxyP4ooj7DpUDA" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
+				<li>Declaration Form: 	
+					<a href="/Icpc 2025/ICPC Delcaration form.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a></li>	
                 </ul>
 				<Heading>Step 5: Upload The Signed Filled In Form In The Google sheet </Heading>
 			<ul class="ml-5 list-disc">
 				<li>Visit the link: 	
-					<a href="https://forms.gle/xLfnxyP4ooj7DpUDA" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
-                </ul>-->
+					<a href="https://forms.gle/RB9esNCPWHGBrXFA6" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
+                </ul>
 			
                 </div>
 		<!--<Heading>The registration fee for onsite contest will be <b>Rs. 4400/-</b> per team.</Heading>-->
