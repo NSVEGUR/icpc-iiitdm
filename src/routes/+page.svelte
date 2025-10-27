@@ -82,6 +82,7 @@
     font-weight: 700;
   }*/
 </style>-->
+
 <!--/*anouncment*/
 {#if showModal}
   <div class="overlay" on:click={closeModal}></div>
@@ -145,6 +146,11 @@
 			
 		</p>
 		<p class="relative mx-20 text-center font-bold text-red-700">
+			Important Instructions For Chennai ICPC Preliminiary Contest <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
 			Declaration <a href="/Icpc 2025/ICPC Delcaration form.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
@@ -159,6 +165,11 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-5 h-8" />
 			
 		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Important Instructions For Chennai ICPC Preliminiary Contest <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
 
 		<!--<p class="relative mx-20 text-center font-bold text-red-700">
 			Registration is Open <a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">Click Here </a>
@@ -167,11 +178,7 @@
 				<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 		</p>
 		
-		<p class="relative mx-20 text-center font-bold text-red-700">
-			Important Instructions For Chennai ICPC Preliminiary Contest <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
-			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
-			
-		</p>-->
+		-->
 
 	<!--	<p class="relative mx-20 text-center font-bold text-red-700">
 			Announcement  <a href="/Icpc 2025/Announcement.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
