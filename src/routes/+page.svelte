@@ -384,6 +384,12 @@
 				>
 					Important Updates
 				</h1>
+				<ul class="mt-5 flex flex-col gap-1 p-2">
+					<li>
+					 <a href="/Icpc 2025/Declararationdeadline.pdf" target="_blank" class="font-bold text-red-800">Declaration Form Deadline  </a>
+					<img src={New} alt="gif" class="h-8" />
+						
+					</li>
 				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
 					<li class="py-1 font-medium italic text-red-800">
