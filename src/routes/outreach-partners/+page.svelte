@@ -22,13 +22,13 @@
 	<h1 class="text-center text-2xl font-black">
 		<img src={jb} alt="icpc logo" width="500" height="200" style="display:inline-block" />
 	</h1>
-	<h1 class="text-center text-2xl font-black">
+	<!--<h1 class="text-center text-2xl font-black">
 		<img src={pathway} alt="icpc logo" width="450" height="500" style="display:inline-block;"/>
 	</h1>
 	<h1 class="text-center text-2xl font-black">
 		<img src={NST} alt="icpc logo" width="450" height="500" style="display:inline-block;"/>
 	</h1>
-	
+	-->
 	
 	
 </div>

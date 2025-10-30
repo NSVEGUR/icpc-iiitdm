@@ -30,12 +30,13 @@
 				<a href="/" class="">
 					<img src={jb} alt="institute logo" class="h-16" />
 				</a>
-				<a href="/" class="">
+				<!--<a href="/" class="">
 					<img src={pathway} alt="institute logo" class="h-16" />
 				</a>
 				<a href="/" class="">
 					<img src={NST} alt="institute logo" class="h-16" />
 				</a>
+				-->
 				<a href="/" class="">
 					<img src={JS} alt="institute logo" class="h-16" width="250" height="750" />
 				</a>
@@ -56,7 +57,8 @@
 				</a>
 			  </div>
 			  -->
-			  <div class="-mt-16 text-center">
+			  
+			  <!--<div class="-mt-16 text-center">  --Last Disabled--
 			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
 				<strong> Outreach Partners</strong>
 			
@@ -66,11 +68,11 @@
 				<a href="/" class="">
 					<img src={GG} alt="institute logo" class="h-16" width="250" height="750" />
 				</a>
-				<!--<a href="/" class="">
+				<a href="/" class="">
 					<img src={JS} alt="institute logo" class="h-16" width="250" height="500"/>
-				</a>-->
+				</a>
 			</p>
-			</div>
+			</div>-->
 		</div>
 	</div>
 	<div class="my-4 flex flex-wrap items-center justify-center gap-4">
