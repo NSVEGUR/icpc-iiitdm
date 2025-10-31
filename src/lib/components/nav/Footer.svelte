@@ -15,11 +15,11 @@
 </script>
 
 <footer class="w-full border-t border-base bg-muted py-5">
-	<p class="-2xs:text-xs text-center text-sm font-medium">
-		<strong>Sponsors</strong>
-	</p>
-	<div class="flex items-center justify-center gap-10">
+	<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
+				<strong>Sponsors</strong></p>
 	<!--
+	<div class="flex items-center justify-center gap-10">
+	
 		<a href="/" class="">
 			<img src={ICPCLogo} alt="icpc logo" class=" h-20" />
 		</a>
@@ -27,31 +27,28 @@
 			<img src={TitledLogo} alt="institute logo" class="h-16" />
 		</a>
 		-->
-	
 		<div class="flex items-center justify-center gap-10">
 			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
-			<!--<strong>Sponsors</strong>-->
-				
+			<!--
+				<strong>Sponsors</strong>
+				-->
 				<a href="/" class="">
-					<img src={jb} alt="institute logo" class="h-16"  />
-					</a>
+					<img src={jb} alt="institute logo" class="h-16" />
+				</a>
 				<!--<a href="/" class="">
 					<img src={pathway} alt="institute logo" class="h-16" />
 				</a>
 				<a href="/" class="">
 					<img src={NST} alt="institute logo" class="h-16" />
 				</a>
-				<a href="/" class="">
-					<img src={JS} alt="institute logo" class="h-16" width="250" height="750" />
-				</a>-->
-			</p>
-				<br>
+				-->
+				</p>
 				<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
-			<a href="/" class="">
-					<img src={JS} alt="institute logo" class="h-16" width="150" height="200"  />
-					<p class="text-gray-600  text-[20px] sm:text-xs font-medium leading-tight"><br>ICPC Titanium Multi-<br>Regional Sponsor</p>
+				<a href="/" class="">
+					<img src={JS} alt="institute logo" class="h-16"  />
+					<p class="text-gray-600 text-[10px] sm:text-xs font-medium leading-tight">ICPC Titanium Multi-<br>Regional Sponsor</p>
 				</a>
-		
+			</p>
 			<!--
 			<div class="-mt-8 text-center">
 				<p class="-2xs:text-xs text-sm font-medium font-extrabold">
@@ -84,9 +81,8 @@
 				</a>
 			</p>
 			</div>-->
-			</p>
 		</div>
-	</div>
+	
 	<div class="my-4 flex flex-wrap items-center justify-center gap-4">
 		{#each hyperlinks as { title, href }}
 			<Link {href}>{title}</Link>
