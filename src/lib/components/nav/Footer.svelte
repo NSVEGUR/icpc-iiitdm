@@ -29,9 +29,7 @@
 		-->
 		<div class="flex items-center justify-center gap-10">
 			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
-			<!--
-				<strong>Sponsors</strong>
-				-->
+			
 				<a href="/" class="">
 					<img src={jb} alt="institute logo" class="h-16" />
 				</a>
@@ -46,7 +44,7 @@
 				<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
 				<a href="/" class="">
 					<img src={JS} alt="institute logo" class="h-16"  />
-					<p class="text-gray-600 text-[10px] sm:text-xs font-medium leading-tight">ICPC Titanium Multi-<br>Regional Sponsor</p>
+					<span class="text-gray-600 text-[10px] sm:text-xs font-medium leading-tight">ICPC Titanium Multi-<br>Regional Sponsor</span>
 				</a>
 			</p>
 			<!--
@@ -64,9 +62,9 @@
 				  <img src={JS} alt="institute logo" class="h-16 mx-auto" width="250" height="500"/>
 				</a>
 			  </div>
-			  -->
 			  
-			  <!--<div class="-mt-16 text-center">  --Last Disabled--
+			  
+			  <div class="-mt-16 text-center">  --Last Disabled--
 			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
 				<strong> Outreach Partners</strong>
 			
