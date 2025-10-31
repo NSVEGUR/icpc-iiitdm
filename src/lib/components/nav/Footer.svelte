@@ -47,10 +47,11 @@
 				<a href="/" class="">
 					<img src={JS} alt="institute logo" class="h-16"  />
 					<p class="text-gray-600 text-[10px] sm:text-xs font-medium leading-tight">ICPC Titanium Multi-<br>Regional Sponsor</p>
+				<!--  TEST UPDATE-->
 				</a>
 			</p>
-			<!--
-			<div class="-mt-8 text-center">
+			<!-- 
+			<div class="-mt-8 text-center"> 
 				<p class="-2xs:text-xs text-sm font-medium font-extrabold">
 				 <strong> Outreach Partners</strong>
 				</p>
