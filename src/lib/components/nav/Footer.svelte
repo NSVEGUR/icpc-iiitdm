@@ -17,9 +17,8 @@
 <footer class="w-full border-t border-base bg-muted py-5">
 	<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
 				<strong>Sponsors</strong></p>
-	<!--
 	<div class="flex items-center justify-center gap-10">
-	
+	<!--
 		<a href="/" class="">
 			<img src={ICPCLogo} alt="icpc logo" class=" h-20" />
 		</a>
@@ -29,7 +28,9 @@
 		-->
 		<div class="flex items-center justify-center gap-10">
 			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
-			
+			<!--
+				<strong>Sponsors</strong>
+				-->
 				<a href="/" class="">
 					<img src={jb} alt="institute logo" class="h-16" />
 				</a>
@@ -44,16 +45,11 @@
 				<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
 				<a href="/" class="">
 					<img src={JS} alt="institute logo" class="h-16"  />
-<<<<<<< HEAD
 					<span class="text-gray-600 text-[10px] sm:text-xs font-medium leading-tight">ICPC Titanium Multi-<br>Regional Sponsor</span>
-=======
-					<p class="text-gray-600 text-[10px] sm:text-xs font-medium leading-tight">ICPC Titanium Multi-<br>Regional Sponsor</p>
-				<!--  TEST UPDATE-->
->>>>>>> b1b0ba76e263e30cf5942400278c3a1b9f6528b6
 				</a>
 			</p>
-			<!-- 
-			<div class="-mt-8 text-center"> 
+			<!--
+			<div class="-mt-8 text-center">
 				<p class="-2xs:text-xs text-sm font-medium font-extrabold">
 				 <strong> Outreach Partners</strong>
 				</p>
@@ -67,9 +63,9 @@
 				  <img src={JS} alt="institute logo" class="h-16 mx-auto" width="250" height="500"/>
 				</a>
 			  </div>
+			  -->
 			  
-			  
-			  <div class="-mt-16 text-center">  --Last Disabled--
+			  <!--<div class="-mt-16 text-center">  --Last Disabled--
 			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
 				<strong> Outreach Partners</strong>
 			
@@ -85,7 +81,7 @@
 			</p>
 			</div>-->
 		</div>
-	
+	</div>
 	<div class="my-4 flex flex-wrap items-center justify-center gap-4">
 		{#each hyperlinks as { title, href }}
 			<Link {href}>{title}</Link>
