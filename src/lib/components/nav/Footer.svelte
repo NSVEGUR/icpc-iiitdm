@@ -26,13 +26,13 @@
 			<img src={TitledLogo} alt="institute logo" class="h-16" />
 		</a>
 		-->
-		<div class="flex items-center justify-center gap-10">
+		<div class="flex items-center justify-center gap-16">
 			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
 			<!--
 				<strong>Sponsors</strong>
 				-->
 				<a href="/" class="">
-					<img src={jb} alt="institute logo" class="h-16" />
+					<img src={jb} alt="institute logo" class="h-20" />
 				</a>
 				<!--<a href="/" class="">
 					<img src={pathway} alt="institute logo" class="h-16" />
@@ -42,12 +42,21 @@
 				</a>
 				-->
 				</p>
-				<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
+			<!--	<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
 				<a href="/" class="">
 					<img src={JS} alt="institute logo" class="h-16"  />
 					<span class="text-gray-600 text-[10px] sm:text-xs font-medium leading-tight">ICPC Titanium Multi-<br>Regional Sponsor</span>
 				</a>
+			</p>-->
+			<p class="-2xs:text-xs text-center text-sm font-medium font-extrabold">
+ 				 <a href="/" class="">
+   				 <img src={JS} alt="institute logo" class="h-16 mx-auto" />
+   				 <span class="block text-gray-600 text-[11px] sm:text-sm font-medium leading-[1.1] mt-1">
+   			   ICPC Titanium Multi-<br>Regional Sponsor
+  			  </span>
+			  </a>
 			</p>
+
 			<!--
 			<div class="-mt-8 text-center">
 				<p class="-2xs:text-xs text-sm font-medium font-extrabold">
