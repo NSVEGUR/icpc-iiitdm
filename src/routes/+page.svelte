@@ -384,21 +384,45 @@
 				>
 					Important Updates
 				</h1>
+				
+					
+				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
+					
+					<li class="py-1 font-medium italic text-red-800">
+						📢 Do keep visiting <a href="https://indiaicpc.in" target="_blank" class="font-bold text-accent ">indiaicpc.ac.in </a> for latest updates on the ICPC India Preliminary Online Contest. 
+							
+						
+					</li>
+
+					<li class="py-1 font-medium italic text-red-800">
+						an Email from <strong> icpc@csjmu.ac.in </strong>containing team login credentials and passwords has been sent to all registered participants. Please <strong> whitelist this email address </strong> and check your <strong> Spam </strong> or <strong> Promotions</strong> folder if you do not find it in your inbox. 
+							<img src={New} alt="gif" class="h-8" />
+						
+					</li>
+					<li>
+					 <a href="/Icpc 2025/contenv.pdf" target="_blank" class="font-medium text-red-800">Contest Environment and Rules (PDF)-Detailed information about contest setup,
+     				 allowed compilers, and participation guidelines for the <strong> India Preliminary Online Contest </strong></a>
+					<img src={New} alt="gif" class="h-8" />
+					
+					<li>
+						<li>
+					 <a href="/Icpc 2025/setupguide.pdf" target="_blank" class="font-medium text-red-800">Proctoring Setup Guide(PDF)- Step-by-step instructions for configuring
+      screen, webcam, and audio recording required during the  <strong> India Preliminary Online Contest </strong></a>
+					<img src={New} alt="gif" class="h-8" />
+					
 					<li>
 					 <a href="/Icpc 2025/Declararationdeadline.pdf" target="_blank" class="font-bold text-red-800">Declaration Form Deadline  </a>
 					<img src={New} alt="gif" class="h-8" />
 						
 					</li>
-				
-				<ul class="mt-5 flex flex-col gap-1 p-2">
 					<li class="py-1 font-medium italic text-red-800">
 						Important Instructions For Chennai ICPC Preliminiary Contest  <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
 							<img src={New} alt="gif" class="h-8" />
 						
 					</li>
 					
-			<li class="py-1 font-medium italic text-red-800">
+					<li class="py-1 font-medium italic text-red-800">
 						Registration is open  <a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">Click Here </a>
 							<img src={New} alt="gif" class="h-8" />
 						
