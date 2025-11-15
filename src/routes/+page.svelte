@@ -408,23 +408,23 @@
 					<li>
 						<li>
 					 <a href="/Icpc 2025/setupguide.pdf" target="_blank" class="font-medium text-red-800">Proctoring Setup Guide(PDF)- Step-by-step instructions for configuring
-      screen, webcam, and audio recording required during the  <strong> India Preliminary Online Contest </strong></a>
+     				 screen, webcam, and audio recording required during the  <strong> India Preliminary Online Contest </strong></a>
 					<img src={New} alt="gif" class="h-8" />
 					
 					<li>
 					 <a href="/Icpc 2025/Declararationdeadline.pdf" target="_blank" class="font-bold text-red-800">Declaration Form Deadline  </a>
-					<img src={New} alt="gif" class="h-8" />
+					<!--<img src={New} alt="gif" class="h-8" />-->
 						
 					</li>
 					<li class="py-1 font-medium italic text-red-800">
 						Important Instructions For Chennai ICPC Preliminiary Contest  <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
-							<img src={New} alt="gif" class="h-8" />
+							<!--<img src={New} alt="gif" class="h-8" />-->
 						
 					</li>
 					
 					<li class="py-1 font-medium italic text-red-800">
 						Registration is open  <a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">Click Here </a>
-							<img src={New} alt="gif" class="h-8" />
+							<!--<img src={New} alt="gif" class="h-8" />-->
 						
 					</li>
 					<!--<li class="py-1 font-medium italic text-red-800">
@@ -580,7 +580,7 @@
 					</li> -->
 					<li class="py-1 font-medium italic text-red-800">
 						After Finishing The Registration In The ICPC Global Website , Fill The Form (Mandatory) <a href="https://forms.gle/xLfnxyP4ooj7DpUDA" target="_blank" class="font-bold text-accent underline">Click Here </a>
-							<img src={New} alt="gif" class="h-8" />
+						<!--	<img src={New} alt="gif" class="h-8" />-->
 						
 					</li>
 					<!--<li class="py-1">
