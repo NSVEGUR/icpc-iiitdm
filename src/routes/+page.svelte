@@ -131,13 +131,13 @@
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 	
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			Tentative List of Selected Teams for ICPC-Chennai OnSite Contest <a href="/Icpc 2025/TentativeSelectedTeam.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<a href="/Icpc 2025/TentativeSelectedTeam.pdf" target="_blank" class="font-bold ">Tentative List of Selected Teams for ICPC-Chennai OnSite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>
 
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			Waitlisted Teams for ICPC Chennai OnSite Contest <a href="/Icpc 2025/waitlistedteams.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			 <a href="/Icpc 2025/waitlistedteams.pdf" target="_blank" class="font-bold ">Waitlisted Teams for ICPC Chennai OnSite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>
@@ -163,13 +163,15 @@
 		</p>-->
 
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			Tentative List of Selected Teams for ICPC-Chennai OnSite Contest <a href="/Icpc 2025/TentativeSelectedTeam.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<a href="/Icpc 2025/TentativeSelectedTeam.pdf" target="_blank" class="font-bold ">Tentative List of Selected Teams for ICPC-Chennai OnSite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
 		</p>
 
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			Waitlisted Teams for ICPC Chennai OnSite Contest <a href="/Icpc 2025/waitlistedteams.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			 <a href="/Icpc 2025/waitlistedteams.pdf" target="_blank" class="font-bold ">Waitlisted Teams for ICPC Chennai OnSite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
 		</p>
 
 		<!--<p class="relative mx-20 text-center font-bold text-red-700">
@@ -216,7 +218,7 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>
-		
+
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			Registration is Open <a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
