@@ -131,7 +131,13 @@
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 	
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			Declaration <a href="/Icpc 2025/ICPC Delcaration form.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			Tentative List of Selected Teams for ICPC-Chennai OnSite Contest <a href="/Icpc 2025/TentativeSelectedTeam.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Waitlisted Teams for ICPC Chennai OnSite Contest <a href="/Icpc 2025/waitlistedteams.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>
@@ -152,6 +158,17 @@
 		</p>
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			Declaration <a href="/Icpc 2025/ICPC Delcaration form.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Tentative List of Selected Teams for ICPC-Chennai OnSite Contest <a href="/Icpc 2025/TentativeSelectedTeam.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Waitlisted Teams for ICPC Chennai OnSite Contest <a href="/Icpc 2025/waitlistedteams.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>
@@ -388,6 +405,16 @@
 					
 				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
+					<li class="py-1 font-medium italic text-red-800">
+						Tentative List of Selected Teams for ICPC-Chennai OnSite Contest  <a href="/Icpc 2025/TentativeSelectedTeam.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+						<img src={New} alt="gif" class="h-8" />
+						
+					</li>
+					<li class="py-1 font-medium italic text-red-800">
+						Waitlisted Teams for ICPC Chennai OnSite Contest <a href="/Icpc 2025/waitlistedteams.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+							<img src={New} alt="gif" class="h-8" />
+						
+					</li>
 					
 					<li class="py-1 font-medium italic text-red-800">
 						📢 Do keep visiting <a href="https://indiaicpc.in" target="_blank" class="font-bold text-accent ">indiaicpc.ac.in </a> for latest updates on the ICPC India Preliminary Online Contest. 
