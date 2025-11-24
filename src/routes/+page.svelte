@@ -402,6 +402,18 @@
 				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
 					<li class="py-1 font-medium italic text-red-800">
+						This year, the <strong>ICPC Chennai onsite contest</strong> does not include any special reservation quota for <strong>women-only teams</strong>; all teams will compete under the same category.
+						<img src={New} alt="gif" class="h-8" />
+						
+					</li>
+					<li class="py-1 font-medium italic text-red-800">
+						This year, the selection process was as follows:
+					<p>(1) The top 10 teams overall were selected, and</p>
+						(2) From each participating institute, the top-ranked qualified team in the preliminary round was selected.
+						<img src={New} alt="gif" class="h-8" />
+						
+					</li>
+					<li class="py-1 font-medium italic text-red-800">
 						Tentative List of Selected Teams for ICPC-Chennai OnSite Contest  <a href="/Icpc 2025/TentativeSelectedTeam.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
 						<img src={New} alt="gif" class="h-8" />
 						
