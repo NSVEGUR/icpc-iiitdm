@@ -129,18 +129,45 @@
 		</p>
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
-	
+		
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			<a href="/Icpc 2025/TentativeSelectedTeam.pdf" target="_blank" class="font-bold ">Tentative List of Selected Teams for ICPC-Chennai OnSite Contest </a>
+			Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/fee" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+		<!--<p class="relative mx-20 text-center font-bold text-red-700">
+			Important Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Registration is Open For Onsite Contest <a href="https://icpc.global/login?redirect_uri=/private/teamRegistration/site/38191" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>-->
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			<a href="/Icpc 2025/Tentative  Selected Teams 2025.pdf" target="_blank" class="font-bold ">Tentative List of Selected Teams for ICPC-Chennai OnSite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>
 
 		<p class="relative mx-20 text-center font-bold text-red-700">
-			 <a href="/Icpc 2025/waitlistedteams.pdf" target="_blank" class="font-bold ">Waitlisted Teams for ICPC Chennai OnSite Contest </a>
+			 <a href="/Icpc 2025/waitlisted teams icpc2025.pdf" target="_blank" class="font-bold ">Waitlisted Teams for ICPC Chennai OnSite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>
+		
+		<!--<p class="relative mx-20 text-center font-bold text-red-700">
+			Important Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Registration is Open For Onsite Contest <a href="https://icpc.global/login?redirect_uri=/private/teamRegistration/site/38191" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>-->
+
 		<!--<p class="relative mx-20 text-center font-bold text-red-700">
 			Upload The Signed Filled In Form In The Google sheet <a href="https://forms.gle/nepKKDjGBuCdapYh7" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-5 h-8" />
@@ -161,7 +188,11 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>-->
-
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/fee" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			<a href="/Icpc 2025/TentativeSelectedTeam.pdf" target="_blank" class="font-bold ">Tentative List of Selected Teams for ICPC-Chennai OnSite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
@@ -173,7 +204,7 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>
-
+		
 		<!--<p class="relative mx-20 text-center font-bold text-red-700">
 			Upload The Signed Filled In Form In The Google sheet <a href="https://forms.gle/nepKKDjGBuCdapYh7" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
@@ -401,6 +432,22 @@
 					
 				
 				<ul class="mt-5 flex flex-col gap-1 p-2">
+					<!--<li class="py-1 font-medium italic text-red-800">
+						Registration is Open For Chennai ICPC Onsite Contest   <a href="https://icpc.global/login?redirect_uri=/private/teamRegistration/site/38191" target="_blank" class="font-bold text-accent underline">Click Here </a>
+							<img src={New} alt="gif" class="h-8" />
+						
+					</li>
+					<li class="py-1 font-medium italic text-red-800">
+						Important Instructions For Chennai ICPC Onsite Contest  <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
+							<img src={New} alt="gif" class="h-8" />
+						
+					</li>-->
+					<li class="py-1 font-medium italic text-red-800">
+						Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/fee" target="_blank" class="font-bold text-accent underline">Click Here </a>
+							<img src={New} alt="gif" class="h-8" />
+						
+					</li>
+
 					<li class="py-1 font-medium italic text-red-800">
 						This year, the <strong>ICPC Chennai onsite contest</strong> does not include any special reservation quota for <strong>women-only teams</strong>; all teams will compete under the same category.
 						<img src={New} alt="gif" class="h-8" />
@@ -414,12 +461,12 @@
 						
 					</li>
 					<li class="py-1 font-medium italic text-red-800">
-						Tentative List of Selected Teams for ICPC-Chennai OnSite Contest  <a href="/Icpc 2025/TentativeSelectedTeam.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+						Tentative List of Selected Teams for ICPC-Chennai OnSite Contest  <a href="/Icpc 2025/Tentative  Selected Teams 2025.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
 						<img src={New} alt="gif" class="h-8" />
 						
 					</li>
 					<li class="py-1 font-medium italic text-red-800">
-						Waitlisted Teams for ICPC Chennai OnSite Contest <a href="/Icpc 2025/waitlistedteams.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+						Waitlisted Teams for ICPC Chennai OnSite Contest <a href="/Icpc 2025/waitlisted teams icpc2025.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
 							<img src={New} alt="gif" class="h-8" />
 						
 					</li>
@@ -451,11 +498,11 @@
 					<!--<img src={New} alt="gif" class="h-8" />-->
 						
 					</li>
-					<li class="py-1 font-medium italic text-red-800">
+					<!--<li class="py-1 font-medium italic text-red-800">
 						Important Instructions For Chennai ICPC Preliminiary Contest  <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
-							<!--<img src={New} alt="gif" class="h-8" />-->
+							<img src={New} alt="gif" class="h-8" />
 						
-					</li>
+					</li>-->
 					
 					<li class="py-1 font-medium italic text-red-800">
 						Registration is open  <a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">Click Here </a>

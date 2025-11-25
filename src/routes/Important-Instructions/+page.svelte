@@ -30,13 +30,13 @@
 				</ul>
 				-->
                 
-		<h2 class="text-center text-2xl font-black">Steps To Complete The Preliminary Registrations:</h2>
+		<h2 class="text-center text-2xl font-black">Steps To Complete The Onsite contest Registrations:</h2>
 	
                 <!--<Heading>Steps To Complete The Preliminary Registrations:</Heading>-->
 			<Heading>Step 1: Please Use The Following Link To Create The Teams:- </Heading>
 			<ul class="ml-5 list-disc">
 				<li>Visit the link: 	
-					<a href="https://icpc.global/regionals/finder/ChennaiICPC-2026" target="_blank" class="font-bold text-accent underline">https://icpc.global/regionals/finder/ChennaiICPC-2026 </a></li>
+					<a href="https://icpc.global/login?redirect_uri=/private/teamRegistration/site/38191" target="_blank" class="font-bold text-accent underline">https://icpc.global/regionals/finder/ChennaiICPC-2026 </a></li>
 				<!--<li>
 					Select <strong class="text-skin-base"> IIITDM-KANCHEEPURAM A/C </strong>
 				</li>
@@ -74,10 +74,10 @@
             <Heading>Step 3: After Completing The Payment, It Is Mandatory To Fill Out The Google Form And Upload The Proof Of Payment. </Heading>
 			<ul class="ml-5 list-disc">
 				<li>Visit the link: 	
-					<a href="https://forms.gle/xLfnxyP4ooj7DpUDA" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
+					<a href="https://forms.gle/8VYHDjhN6aD7FJE76" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
                 </ul>
 				
-				<Heading>Step 4: The Format Of Undertaking Is Provided In The Following Link </Heading>
+				<!--<Heading>Step 4: The Format Of Undertaking Is Provided In The Following Link </Heading>
 			<ul class="ml-5 list-disc">
 				<li>Declaration Form: 	
 					<a href="/Icpc 2025/ICPC Delcaration form.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a></li>	
@@ -86,7 +86,7 @@
 			<ul class="ml-5 list-disc">
 				<li>Visit the link: 	
 					<a href="https://forms.gle/RB9esNCPWHGBrXFA6" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
-                </ul>
+                </ul>-->
 			
                 </div>
 		<!--<Heading>The registration fee for onsite contest will be <b>Rs. 4400/-</b> per team.</Heading>-->

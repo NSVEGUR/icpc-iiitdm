@@ -13,12 +13,21 @@ export const load: LayoutServerLoad = async ({ url }) => {
 		//	href: '/onsite-rules.pdf',
 		//	title: 'Onsite Contest Rules'
 		//},//
-		{
+		//{
+		//	type: 'link',
+		//	href: '/about-preliminary',
+		//	title: 'Preliminary Contest'
+		//},
+		//{
+		//	type: 'link',
+		//	href: '/Important-Instructions',
+		//	title: 'Important Instructions'
+		//},
+			{
 			type: 'link',
-			href: '/about-preliminary',
-			title: 'Preliminary Contest'
+			href: '/fee',
+			title: 'Onsite Registration'
 		},
-	
 		{
 			type: 'link',
 			href: '/important-dates',
@@ -29,11 +38,7 @@ export const load: LayoutServerLoad = async ({ url }) => {
 		//	href: '/registration',
 		//	title: 'Registration'
 		//},
-		//{
-		//	type: 'link',
-		//	href: '/fee',
-		//	title: 'Registration'
-		//},
+	
 		//{
 		//	type: 'link',
 		//	href: '/results',

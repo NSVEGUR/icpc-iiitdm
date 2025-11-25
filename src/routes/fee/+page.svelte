@@ -52,7 +52,7 @@
 			<Heading>Step 2: Fill the details using the following Google Form (Mandatory) :- </Heading>
 			<ul class="ml-5 list-disc">
 				<li>Visit the link: 	
-					<a href="https://forms.gle/gZSvdaW4PgwrR8AK8" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
+					<a href="https://forms.gle/8VYHDjhN6aD7FJE76" target="_blank" class="font-bold text-accent underline">Google Form Link </a></li>	
 		</div>
 		<Heading>The registration fee for onsite contest will be <b>Rs. 4400/-</b> per team.</Heading>
 	</section>

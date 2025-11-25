@@ -24,7 +24,7 @@
 			to the final rank list updated in the website), may do the necessary travel arrangements.
 			<Heading>Details :</Heading>
 			<ul class="ml-5 list-disc">
-				<li>The registration fee will be <b>Rs. 4000/-</b>.</li>
+				<li>The registration fee will be <b>Rs. 4400/-</b>.</li>
 				<li>
 					Last date to the payment registration for newly allotted teams: January 5th, 2024, 9:00 pm
 				</li>
@@ -47,7 +47,7 @@
 					</li>
 					<li>Fill the particulars and make payment.</li>
 					<li>
-						For a team: <strong class="text-skin-base">Rs 4000/-</strong> have to be paid
+						For a team: <strong class="text-skin-base">Rs 4400/-</strong> have to be paid
 					</li>
 				</ul>
 
