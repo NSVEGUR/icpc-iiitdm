@@ -129,7 +129,17 @@
 		</p>
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
-		
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Payment Link <a href="https://www.onlinesbi.sbi/sbicollect/" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			After Finishing The Payment, Fill The Google Form   <a href="https://forms.gle/8VYHDjhN6aD7FJE76" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/fee" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
@@ -188,6 +198,16 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>-->
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Payment Link <a href="https://www.onlinesbi.sbi/sbicollect/" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			After Finishing The Payment, Fill The Google Form   <a href="https://forms.gle/8VYHDjhN6aD7FJE76" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/fee" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
@@ -442,6 +462,7 @@
 							<img src={New} alt="gif" class="h-8" />
 						
 					</li>-->
+					
 					<li class="py-1 font-medium italic text-red-800">
 						Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/fee" target="_blank" class="font-bold text-accent underline">Click Here </a>
 							<img src={New} alt="gif" class="h-8" />
@@ -659,12 +680,12 @@
 							this preprinted material. Chennai Site will not provide any facility to print this
 							material and no request in this regard will be entertained.
 						</p>
-					</li> -->
+					</li> 
 					<li class="py-1 font-medium italic text-red-800">
 						After Finishing The Registration In The ICPC Global Website , Fill The Form (Mandatory) <a href="https://forms.gle/xLfnxyP4ooj7DpUDA" target="_blank" class="font-bold text-accent underline">Click Here </a>
-						<!--	<img src={New} alt="gif" class="h-8" />-->
+							<img src={New} alt="gif" class="h-8" />
 						
-					</li>
+					</li>-->
 					<!--<li class="py-1">
 						<a
 							href="/preliminary-rules_2025_1.pdf"
