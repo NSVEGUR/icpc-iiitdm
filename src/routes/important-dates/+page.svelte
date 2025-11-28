@@ -123,7 +123,7 @@
 				</span>
 				<p>
 					
-					22nd November 2025 (11:59 PM IST)				
+					22nd December 2025 (11:59 PM IST)				
 					<!--<img src={New} alt="gif" class="h-10" style="display: inline-flex;" />-->
 					
 				</p>
