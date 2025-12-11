@@ -462,6 +462,10 @@
 							<img src={New} alt="gif" class="h-8" />
 						
 					</li>-->
+					<li class="py-1 font-medium italic text-red-800">
+						<strong>Winners Team </strong>and <strong>Runner-Up Team </strong>will be provided Price Money
+						
+					</li>
 					
 					<li class="py-1 font-medium italic text-red-800">
 						Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/fee" target="_blank" class="font-bold text-accent underline">Click Here </a>
