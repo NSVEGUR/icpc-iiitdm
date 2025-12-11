@@ -463,7 +463,7 @@
 						
 					</li>-->
 					<li class="py-1 font-medium italic text-red-800">
-						<strong>Winners Team </strong>and <strong>Runner-Up Team </strong>will be provided Price Money
+						<strong>Winner Team </strong>and <strong>Runner-Up Team </strong>will be provided with price money
 						
 					</li>
 					
