@@ -134,7 +134,7 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>
-		<p class="relative mx-20 text-center font-bold text-red-700">
+		<!--<p class="relative mx-20 text-center font-bold text-red-700">
 			Payment Link <a href="https://www.onlinesbi.sbi/sbicollect/" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
@@ -149,7 +149,7 @@
 			Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/fee" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
-		</p>
+		</p>-->
 		<!--<p class="relative mx-20 text-center font-bold text-red-700">
 			Important Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
@@ -159,7 +159,7 @@
 			Registration is Open For Onsite Contest <a href="https://icpc.global/login?redirect_uri=/private/teamRegistration/site/38191" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
-		</p>-->
+		</p>
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			<a href="/Icpc 2025/Tentative  Selected Teams 2025.pdf" target="_blank" class="font-bold ">Tentative List of Selected Teams for ICPC-Chennai OnSite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
@@ -170,7 +170,7 @@
 			 <a href="/Icpc 2025/waitlisted teams icpc2025.pdf" target="_blank" class="font-bold ">Waitlisted Teams for ICPC Chennai OnSite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
-		</p>
+		</p>-->
 		
 		<!--<p class="relative mx-20 text-center font-bold text-red-700">
 			Important Instructions For Chennai ICPC Onsite Contest <a href="https://icpc-iiitdm.vercel.app/Important-Instructions" target="_blank" class="font-bold text-accent underline">Click Here </a>
@@ -209,7 +209,7 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>
-		<p class="relative mx-20 text-center font-bold text-red-700">
+		<!--<p class="relative mx-20 text-center font-bold text-red-700">
 			Payment Link <a href="https://www.onlinesbi.sbi/sbicollect/" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
@@ -234,7 +234,7 @@
 			 <a href="/Icpc 2025/waitlistedteams.pdf" target="_blank" class="font-bold ">Waitlisted Teams for ICPC Chennai OnSite Contest </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
-		</p>
+		</p>-->
 		
 		<!--<p class="relative mx-20 text-center font-bold text-red-700">
 			Upload The Signed Filled In Form In The Google sheet <a href="https://forms.gle/nepKKDjGBuCdapYh7" target="_blank" class="font-bold text-accent underline">Click Here </a>
