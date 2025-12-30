@@ -130,6 +130,11 @@
 	</Marquee>-->
 	<Marquee speed={1} class="py-16" hoverSpeed={0.2} shadow>
 		<p class="relative mx-20 text-center font-bold text-red-700">
+			Final Rank List Of Chennai ICPC Onsite Contest <a href="/Icpc 2025/ICPC Final RankList.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
+		<p class="relative mx-20 text-center font-bold text-red-700">
 			Payment Link <a href="https://www.onlinesbi.sbi/sbicollect/" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
@@ -198,6 +203,12 @@
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
 			
 		</p>-->
+
+		<p class="relative mx-20 text-center font-bold text-red-700">
+			Final Rank List Of Chennai ICPC Onsite Contest <a href="/Icpc 2025/ICPC Final RankList.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
+			
+		</p>
 		<p class="relative mx-20 text-center font-bold text-red-700">
 			Payment Link <a href="https://www.onlinesbi.sbi/sbicollect/" target="_blank" class="font-bold text-accent underline">Click Here </a>
 			<img src={New} alt="gif" class="absolute -top-10 right-0 h-8" />
@@ -462,6 +473,13 @@
 							<img src={New} alt="gif" class="h-8" />
 						
 					</li>-->
+					<li class="py-1 font-medium italic text-red-800">
+					
+						<strong> Final Rank List </strong> Of Chennai ICPC Onsite Contest <a href="/Icpc 2025/ICPC Final RankList.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>	
+						<img src={New} alt="gif" class="h-8" />
+						
+					</li>
+					
 					<li class="py-1 font-medium italic text-red-800">
 						<strong>Winner Team </strong>and <strong>Runner-Up Team </strong>will be provided with price money
 						
