@@ -474,6 +474,21 @@
 						
 					</li>-->
 					<li class="py-1 font-medium italic text-red-800">
+						ICPC Chennai Onsite 2025 Final Ranklist <a href="/Icpc 2025/ICPC Chennai Onsite 2025- Final Ranklist.pdf" target="_blank" class="font-bold text-accent underline"> Click Here </a>
+							<img src={New} alt="gif" class="h-8" />
+						
+					</li>
+					<li class="py-1 font-medium italic text-red-800">
+						ICPC Chennai 2025 Problem Set <a href="/Icpc 2025/ICPC_Chennai_2025_Problems.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+							<img src={New} alt="gif" class="h-8" />
+						
+					</li>
+					<li class="py-1 font-medium italic text-red-800">
+						Regional Contest Director Report of ICPC 2025  Chennai Regional <a href="/Icpc 2025/Regional Contest Director Report of ICPC 2025  Chennai Regional.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>
+							<img src={New} alt="gif" class="h-8" />
+						
+					</li>
+					<li class="py-1 font-medium italic text-red-800">
 					
 						<strong> Final Rank List </strong> Of Chennai ICPC Onsite Contest <a href="/Icpc 2025/ICPC Final RankList.pdf" target="_blank" class="font-bold text-accent underline">Click Here </a>	
 						<img src={New} alt="gif" class="h-8" />
